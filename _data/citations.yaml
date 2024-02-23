@@ -1,174 +1,3023 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1093/nar/gkad1082
-  title: "The Monarch Initiative in 2024: an analytic platform integrating phenotypes,\
-    \ genes\_and diseases across species"
+- id: doi:10.1093/database/baad071
+  title: "Managing and\_monitoring a pandemic: showcasing a practical approach for\_\
+    the genomic surveillance of\_SARS-CoV-2"
   authors:
-  - Tim E Putman
-  - Kevin Schaper
-  - Nicolas Matentzoglu
-  - "Vincent\_P Rubinetti"
-  - "Faisal\_S Alquaddoomi"
-  - Corey Cox
-  - J Harry Caufield
-  - Glass Elsarboukh
-  - Sarah Gehrke
-  - Harshad Hegde
-  - "Justin\_T Reese"
-  - Ian Braun
-  - "Richard\_M Bruskiewich"
-  - Luca Cappelletti
-  - Seth Carbon
-  - "Anita\_R Caron"
-  - "Lauren\_E Chan"
-  - "Christopher\_G Chute"
-  - "Katherina\_G Cortes"
-  - "Vin\xEDcius De\_Souza"
-  - Tommaso Fontana
-  - "Nomi\_L Harris"
-  - "Emily\_L Hartley"
-  - Eric Hurwitz
-  - "Julius\_O B Jacobsen"
-  - Madan Krishnamurthy
-  - "Bryan\_J Laraway"
-  - "James\_A McLaughlin"
-  - "Julie\_A McMurry"
-  - "Sierra\_A T Moxon"
-  - "Kathleen\_R Mullen"
-  - "Shawn\_T O\u2019Neil"
-  - "Kent\_A Shefchek"
-  - Ray Stefancsik
-  - Sabrina Toro
-  - "Nicole\_A Vasilevsky"
-  - "Ramona\_L Walls"
-  - "Patricia\_L Whetzel"
-  - David Osumi-Sutherland
-  - Damian Smedley
-  - "Peter\_N Robinson"
-  - "Christopher\_J Mungall"
-  - "Melissa\_A Haendel"
-  - "Monica\_C Munoz-Torres"
-  publisher: Nucleic Acids Research
-  date: '2023-11-24'
-  link: https://doi.org/gs6kmr
-  orcid: 0000-0002-4655-3773
+  - Mateusz Jundzill
+  - Riccardo Spott
+  - Mara Lohde
+  - "Martin H\xF6lzer"
+  - Adrian Viehweger
+  - Christian Brandt
+  publisher: Database
+  date: '2023-01-01'
+  link: https://doi.org/gtjmjb
+  orcid: 0000-0001-7090-8717
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.10.11.560955
-  title: Integration of 168,000 samples reveals global patterns of the human gut microbiome
+- id: doi:10.12688/f1000research.136683.1
+  title: 'Lessons learned: overcoming common challenges in reconstructing the SARS-CoV-2
+    genome from short-read sequencing data via CoVpipe2'
   authors:
-  - Richard J. Abdill
-  - Samantha P. Graham
-  - Vincent Rubinetti
-  - Frank W. Albert
-  - Casey S. Greene
-  - Sean Davis
-  - Ran Blekhman
+  - Marie Lataretu
+  - Oliver Drechsel
+  - "Ren\xE9 Kmiecinski"
+  - Kathrin Trappe
+  - "Martin H\xF6lzer"
+  - Stephan Fuchs
+  publisher: F1000Research
+  date: '2023-09-01'
+  link: https://doi.org/gtjmjc
+  orcid: 0000-0001-7090-8717
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pcbi.1011422
+  title: 'VIRify: An integrated detection, annotation and taxonomic classification
+    pipeline using virus-specific protein profile hidden Markov models'
+  authors:
+  - Guillermo Rangel-Pineros
+  - Alexandre Almeida
+  - Martin Beracochea
+  - Ekaterina Sakharova
+  - Manja Marz
+  - "Alejandro Reyes Mu\xF1oz"
+  - "Martin H\xF6lzer"
+  - Robert D. Finn
+  publisher: PLOS Computational Biology
+  date: '2023-08-28'
+  link: https://doi.org/gs7gvv
+  orcid: 0000-0001-7090-8717
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2023.08.05.552089
+  title: Targeted decontamination of sequencing data with CLEAN
+  authors:
+  - Marie Lataretu
+  - Sebastian Krautwurst
+  - Adrian Viehweger
+  - Christian Brandt
+  - "Martin H\xF6lzer"
   publisher: Cold Spring Harbor Laboratory
-  date: '2023-10-11'
-  link: https://doi.org/gsvf5z
-  orcid: 0000-0002-4655-3773
+  date: '2023-08-06'
+  link: https://doi.org/gtjmjd
+  orcid: 0000-0001-7090-8717
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/nar/gkad289
-  title: 'MyGeneset.info: an interactive and programmatic platform for community-curated
-    and user-created collections of genes'
+- id: doi:10.1101/2023.06.02.543047
+  title: Impact of reference design on estimating SARS-CoV-2 lineage abundances from
+    wastewater sequencing data
   authors:
-  - Ricardo Avila
-  - Vincent Rubinetti
-  - Xinghua Zhou
-  - Dongbo Hu
-  - Zhongchao Qian
-  - Marco Alvarado Cano
-  - Everaldo Rodolpho
-  - Ginger Tsueng
-  - Casey Greene
-  - Chunlei Wu
-  publisher: Nucleic Acids Research
-  date: '2023-04-18'
-  link: https://doi.org/gr5hb5
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2023.01.05.522941
-  title: Hetnet connectivity search provides rapid insights into how two biomedical
-    entities are related
-  authors:
-  - Daniel S. Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J. Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N. Nicholson
-  - Yun Hao
-  - Blair D. Sullivan
-  - Michael W. Nagle
-  - Casey S. Greene
+  - "Eva A\xDFmann"
+  - Shelesh Agrawal
+  - Laura Orschler
+  - "Sindy B\xF6ttcher"
+  - Susanne Lackner
+  - "Martin H\xF6lzer"
   publisher: Cold Spring Harbor Laboratory
-  date: '2023-01-07'
-  link: https://doi.org/grmcb9
-  orcid: 0000-0002-4655-3773
+  date: '2023-06-02'
+  link: https://doi.org/gtjmjf
+  orcid: 0000-0001-7090-8717
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/gigascience/giad047
-  title: Hetnet connectivity search provides rapid insights into how biomedical entities
-    are related
+- id: doi:10.1101/2023.05.05.539552
+  title: 'Pangenome calculation beyond the species level using RIBAP: A comprehensive
+    bacterial core genome annotation pipeline based on Roary and pairwise ILPs'
   authors:
-  - Daniel S Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N Nicholson
-  - Yun Hao
-  - Blair D Sullivan
-  - Michael W Nagle
-  - Casey S Greene
+  - Kevin Lamkiewicz
+  - Lisa-Marie Barf
+  - Konrad Sachse
+  - "Martin H\xF6lzer"
+  publisher: Cold Spring Harbor Laboratory
+  date: '2023-05-07'
+  link: https://doi.org/gtjmjg
+  orcid: 0000-0001-7090-8717
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2023.04.13.536562
+  title: <i>De novo</i>genome assembly resolving repetitive structures enables genomic
+    analysis of 35 European<i>Mycoplasma bovis</i>strains
+  authors:
+  - Sandra Triebel
+  - Konrad Sachse
+  - Michael Weber
+  - Martin Heller
+  - Celia Diezel
+  - "Martin H\xF6lzer"
+  - Christiane Schnee
+  - Manja Marz
+  publisher: Cold Spring Harbor Laboratory
+  date: '2023-04-13'
+  link: https://doi.org/gtjmjh
+  orcid: 0000-0001-7090-8717
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2023.03.29.534691
+  title: Sequencing accuracy and systematic errors of nanopore direct RNA sequencing
+  authors:
+  - Wang Liu-Wei
+  - Wiep van der Toorn
+  - Patrick Bohn
+  - "Martin H\xF6lzer"
+  - Redmond Smyth
+  - Max von Kleist
+  publisher: Cold Spring Harbor Laboratory
+  date: '2023-03-30'
+  link: https://doi.org/gtjmjj
+  orcid: 0000-0001-7090-8717
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.46471/gigabyte.75
+  title: "Nanopore-based enrichment of antimicrobial resistance genes \u2013 a\_case-based\
+    \ study"
+  authors:
+  - Adrian Viehweger
+  - Mike Marquet
+  - "Martin H\xF6lzer"
+  - Nadine Dietze
+  - Mathias W. Pletz
+  - Christian Brandt
+  publisher: Gigabyte
+  date: '2023-01-25'
+  link: https://doi.org/gtjmjk
+  orcid: 0000-0001-7090-8717
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/gigascience/giac110
+  title: 'What the Phage: a scalable workflow for the identification and analysis
+    of phage sequences'
+  authors:
+  - Mike Marquet
+  - "Martin H\xF6lzer"
+  - Mathias W Pletz
+  - Adrian Viehweger
+  - Oliwia Makarewicz
+  - Ralf Ehricht
+  - Christian Brandt
   publisher: GigaScience
-  date: '2022-12-28'
-  link: https://doi.org/gsd85n
-  orcid: 0000-0002-4655-3773
+  date: '2022-01-01'
+  link: https://doi.org/gsxcmw
+  orcid: 0000-0001-7090-8717
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2022.02.18.461833
-  title: 'MolEvolvR: A web-app for characterizing proteins using molecular evolution
-    and phylogeny'
+- id: doi:10.1093/bioinformatics/btac411
+  title: 'CovRadar: continuously tracking and filtering SARS-CoV-2 mutations for genomic
+    surveillance'
   authors:
-  - Jacob D Krol
-  - Joseph T Burke
-  - Samuel Z Chen
-  - Lo Sosinski
-  - Faisal S Alquaddoomi
-  - Evan P Brenner
-  - Ethan P Wolfe
-  - Vince P Rubinetti
-  - Shaddai Amolitos
-  - Kellen M Reason
-  - John B Johnston
-  - Janani Ravi
+  - Alice Wittig
+  - "F\xE1bio Miranda"
+  - "Martin H\xF6lzer"
+  - Tom Altenburg
+  - Jakub M Bartoszewicz
+  - Sebastian Beyvers
+  - Marius A Dieckmann
+  - Ulrich Genske
+  - Sven H Giese
+  - Melania Nowicka
+  - Hugues Richard
+  - Henning Schiebenhoefer
+  - Anna-Juliane Schmachtenberg
+  - Paul Sieben
+  - Ming Tang
+  - Julius Tembrockhaus
+  - Bernhard Y Renard
+  - Stephan Fuchs
+  publisher: Bioinformatics
+  date: '2022-07-07'
+  link: https://doi.org/gtjmjm
+  orcid: 0000-0001-7090-8717
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2022.08.22.504484
+  title: 'VIRify: an integrated detection, annotation and taxonomic classification
+    pipeline using virus-specific protein profile hidden Markov models'
+  authors:
+  - Guillermo Rangel-Pineros
+  - Alexandre Almeida
+  - Martin Beracochea
+  - Ekaterina Sakharova
+  - Manja Marz
+  - "Alejandro Reyes Mu\xF1oz"
+  - "Martin H\xF6lzer"
+  - Robert D. Finn
   publisher: Cold Spring Harbor Laboratory
-  date: '2022-02-22'
-  link: https://doi.org/gstx7j
-  orcid: 0000-0002-4655-3773
+  date: '2022-08-22'
+  link: https://doi.org/grcttn
+  orcid: 0000-0001-7090-8717
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1186/s13059-020-02021-3
-  title: Compressing gene expression data using multiple latent space dimensionalities
-    learns complementary biological representations
+- id: doi:10.3390/jof8040323
+  title: Near Chromosome-Level Genome Assembly and Annotation of Rhodotorula babjevae
+    Strains Reveals High Intraspecific Divergence
   authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
+  - "Giselle C. Mart\xEDn-Hern\xE1ndez"
+  - "Bettina M\xFCller"
+  - Christian Brandt
+  - "Martin H\xF6lzer"
+  - Adrian Viehweger
+  - Volkmar Passoth
+  publisher: Journal of Fungi
+  date: '2022-03-22'
+  link: https://doi.org/gqvvg6
+  orcid: 0000-0001-7090-8717
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/v14010087
+  title: Investigation of a Limited but Explosive COVID-19 Outbreak in a German Secondary
+    School
+  authors:
+  - Sigrid Baumgarte
+  - Felix Hartkopf
+  - "Martin H\xF6lzer"
+  - Max von Kleist
+  - Sabine Neitz
+  - Martin Kriegel
+  - Kirsten Bollongino
+  publisher: Viruses
+  date: '2022-01-04'
+  link: https://doi.org/gtjmjn
+  orcid: 0000-0001-7090-8717
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1099/mgen.0.000741
+  title: Context-aware genomic surveillance reveals hidden transmission of a carbapenemase-producing
+    Klebsiella pneumoniae
+  authors:
+  - Adrian Viehweger
+  - Christian Blumenscheit
+  - Norman Lippmann
+  - Kelly L. Wyres
+  - Christian Brandt
+  - "J\xF6rg B. Hans"
+  - "Martin H\xF6lzer"
+  - Luiz Irber
+  - "S\xF6ren Gatermann"
+  - "Christoph L\xFCbbert"
+  - Mathias W. Pletz
+  - Kathryn E. Holt
+  - "Brigitte K\xF6nig"
+  publisher: Microbial Genomics
+  date: '2021-12-24'
+  link: https://doi.org/gq5gt8
+  orcid: 0000-0001-7090-8717
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41564-021-01011-w
+  title: Integrating cultivation and metagenomics for a multi-kingdom view of skin
+    microbiome diversity and functions
+  authors:
+  - Sara Saheb Kashaf
+  - Diana M. Proctor
+  - Clay Deming
+  - Paul Saary
+  - "Martin H\xF6lzer"
+  - Jim Mullikin
+  - Jim Thomas
+  - Alice Young
+  - Gerry Bouffard
+  - Betty Barnabas
+  - Shelise Brooks
+  - Joel Han
+  - Shi-ling Ho
+  - Juyun Kim
+  - Richelle Legaspi
+  - Quino Maduro
+  - Holly Marfani
+  - Casandra Montemayor
+  - Nancy Riebow
+  - Karen Schandler
+  - Brian Schmidt
+  - Christina Sison
+  - Mal Stantripop
+  - Sean Black
+  - Mila Dekhtyar
+  - Cathy Masiello
+  - Jenny McDowell
+  - Morgan Park
+  - Pam Thomas
+  - Meg Vemulapalli
+  - Monica E. Taylor
+  - Heidi H. Kong
+  - Julia A. Segre
+  - Alexandre Almeida
+  - Robert D. Finn
+  publisher: Nature Microbiology
+  date: '2021-12-24'
+  link: https://doi.org/gqm76x
+  orcid: 0000-0001-7090-8717
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2021.10.29.466389
+  title: Comparative transcriptomics identifies the transcription factors BRANCHED1
+    and TCP4, as well as the microRNA miR166 as candidate genes involved in the evolutionary
+    transition from dehiscent to indehiscent fruits in <i>Lepidium</i> (Brassicaceae)
+  authors:
+  - Lydia Gramzow
+  - Katharina Klupsch
+  - "No\xE9 Fern\xE1ndez Pozo"
+  - "Martin H\xF6lzer"
+  - Manja Marz
+  - Stefan A. Rensing
+  - "G\xFCnter Thei\xDFen"
+  publisher: Cold Spring Harbor Laboratory
+  date: '2021-11-01'
+  link: https://doi.org/gtjmjp
+  orcid: 0000-0001-7090-8717
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2021.07.28.454184
+  title: The economical lifestyle of CPR bacteria in groundwater allows little preference
+    for environmental drivers
+  authors:
+  - Narendrakumar M. Chaudhari
+  - Will A. Overholt
+  - Perla Abigail Figueroa-Gonzalez
+  - Martin Taubert
+  - Till L. V. Bornemann
+  - Alexander J. Probst
+  - "Martin H\xF6lzer"
+  - Manja Marz
+  - "Kirsten K\xFCsel"
+  publisher: Cold Spring Harbor Laboratory
+  date: '2021-07-29'
+  link: https://doi.org/gtjmjq
+  orcid: 0000-0001-7090-8717
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.syapm.2021.126200
+  title: 'Evidence for the existence of a new genus Chlamydiifrater gen. nov. inside
+    the family Chlamydiaceae with two new species isolated from flamingo (Phoenicopterus
+    roseus): Chlamydiifrater phoenicopteri sp. nov. and Chlamydiifrater volucris sp.
+    nov.'
+  authors:
+  - F. Vorimore
+  - "M. H\xF6lzer"
+  - E.M. Liebler-Tenorio
+  - L.-M. Barf
+  - S. Delannoy
+  - M. Vittecoq
+  - R. Wedlarski
+  - "A. L\xE9cu"
+  - S. Scharf
+  - Y. Blanchard
+  - P. Fach
+  - R.C. Hsia
+  - P.M. Bavoil
+  - "R. Rossell\xF3-M\xF3ra"
+  - K. Laroucau
+  - K. Sachse
+  publisher: Systematic and Applied Microbiology
+  date: '2021-07-01'
+  link: https://doi.org/grkfqm
+  orcid: 0000-0001-7090-8717
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/v13081491
+  title: Rise and Fall of SARS-CoV-2 Lineage A.27 in Germany
+  authors:
+  - "S\xE9bastien Calvignac-Spencer"
+  - Matthias Budt
+  - Matthew Huska
+  - Hugues Richard
+  - Luca Leipold
+  - Linus Grabenhenrich
+  - Torsten Semmler
+  - Max von Kleist
+  - "Stefan Kr\xF6ger"
+  - Thorsten Wolff
+  - "Martin H\xF6lzer"
+  publisher: Viruses
+  date: '2021-07-29'
+  link: https://doi.org/gtjmjr
+  orcid: 0000-0001-7776-1340
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2021.05.07.443089
+  title: poreCov - an easy to use, fast, and robust workflow for SARS-CoV-2 genome
+    reconstruction via nanopore sequencing
+  authors:
+  - Christian Brandt
+  - Sebastian Krautwurst
+  - Riccardo Spott
+  - Mara Lohde
+  - Mateusz Jundzill
+  - Mike Marquet
+  - "Martin H\xF6lzer"
+  publisher: Cold Spring Harbor Laboratory
+  date: '2021-05-07'
+  link: https://doi.org/gtjmjs
+  orcid: 0000-0001-7090-8717
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pcbi.1008716
+  title: Metagenomics workflow for hybrid assembly, differential coverage binning,
+    metatranscriptomics and pathway analysis (MUFFIN)
+  authors:
+  - Renaud Van Damme
+  - "Martin H\xF6lzer"
+  - Adrian Viehweger
+  - "Bettina M\xFCller"
+  - Erik Bongcam-Rudloff
+  - Christian Brandt
+  publisher: PLOS Computational Biology
+  date: '2021-02-09'
+  link: https://doi.org/gh65cq
+  orcid: 0000-0001-7090-8717
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/jpy.13083
+  title: A marine <i>Chlamydomonas</i> sp. emerging as an algal model
+  authors:
+  - David Carrasco Flores
+  - Markus Fricke
+  - Valentin Wesp
+  - "Daniel Desir\xF2"
+  - Anja Kniewasser
+  - "Martin H\xF6lzer"
+  - Manja Marz
+  - Maria Mittag
+  publisher: Journal of Phycology
+  date: '2020-11-22'
+  link: https://doi.org/gtjmjt
+  orcid: 0000-0001-7090-8717
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/cancers13030476
+  title: RUNX3 Transcript Variants Have Distinct Roles in Ovarian Carcinoma and Differently
+    Influence Platinum Sensitivity and Angiogenesis
+  authors:
+  - Karolin Heinze
+  - "Martin H\xF6lzer"
+  - Martin Ungelenk
+  - Melanie Gerth
+  - "J\xFCrgen Thomale"
+  - Regine Heller
+  - Claire R. Morden
+  - Kirk J. McManus
+  - Alexander S. Mosig
+  - "Matthias D\xFCrst"
+  - Ingo B. Runnebaum
+  - "Norman H\xE4fner"
+  publisher: Cancers
+  date: '2021-01-26'
+  link: https://doi.org/gtjmjv
+  orcid: 0000-0001-7090-8717
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/cells10010080
+  title: SLC35F2, a Transporter Sporadically Mutated in the Untranslated Region, Promotes
+    Growth, Migration, and Invasion of Bladder Cancer Cells
+  authors:
+  - Roland Kotolloshi
+  - "Martin H\xF6lzer"
+  - Mieczyslaw Gajda
+  - Marc-Oliver Grimm
+  - Daniel Steinbach
+  publisher: Cells
+  date: '2021-01-06'
+  link: https://doi.org/gtjmjw
+  orcid: 0000-0001-7090-8717
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/1755-0998.13268
+  title: 'A decade of de novo transcriptome assembly: Are we there yet?'
+  authors:
+  - "Martin H\xF6lzer"
+  publisher: Molecular Ecology Resources
+  date: '2020-10-29'
+  link: https://doi.org/gtjmjx
+  orcid: 0000-0001-7090-8717
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/genes11121487
+  title: 'RNAflow: An Effective and Simple RNA-Seq Differential Gene Expression Pipeline
+    Using Nextflow'
+  authors:
+  - Marie Lataretu
+  - "Martin H\xF6lzer"
+  publisher: Genes
+  date: '2020-12-10'
+  link: https://doi.org/gtjmjz
+  orcid: 0000-0001-7090-8717
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/pathogens9110899
+  title: Comparative Genome Analysis of 33 Chlamydia Strains Reveals Characteristic
+    Features of Chlamydia Psittaci and Closely Related Species
+  authors:
+  - "Martin H\xF6lzer"
+  - Lisa-Marie Barf
+  - Kevin Lamkiewicz
+  - Fabien Vorimore
+  - Marie Lataretu
+  - Alison Favaroni
+  - Christiane Schnee
+  - Karine Laroucau
+  - Manja Marz
+  - Konrad Sachse
+  publisher: Pathogens
+  date: '2020-10-28'
+  link: https://doi.org/gp46pg
+  orcid: 0000-0001-7090-8717
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/1462-2920.15186
+  title: "Inclusion of Oxford Nanopore long reads improves all microbial and viral\
+    \ metagenome\u2010assembled genomes from a complex aquifer system"
+  authors:
+  - Will A. Overholt
+  - "Martin H\xF6lzer"
+  - Patricia Geesink
+  - Celia Diezel
+  - Manja Marz
+  - "Kirsten K\xFCsel"
+  publisher: Environmental Microbiology
+  date: '2020-08-20'
+  link: https://doi.org/gg7mvm
+  orcid: 0000-0001-7090-8717
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2020.07.24.219899
+  title: 'What the Phage: A scalable workflow for the identification and analysis
+    of phage sequences'
+  authors:
+  - Mike Marquet
+  - "Martin H\xF6lzer"
+  - Mathias W. Pletz
+  - Adrian Viehweger
+  - Oliwia Makarewicz
+  - Ralf Ehricht
+  - Christian Brandt
+  publisher: Cold Spring Harbor Laboratory
+  date: '2020-07-25'
+  link: https://doi.org/gtjmj2
+  orcid: 0000-0001-7090-8717
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2020.05.18.102731
+  title: 'PoSeiDon: a Nextflow pipeline for the detection of evolutionary recombination
+    events and positive selection'
+  authors:
+  - "Martin H\xF6lzer"
+  - Manja Marz
+  publisher: Cold Spring Harbor Laboratory
+  date: '2020-05-20'
+  link: https://doi.org/gsxcw9
+  orcid: 0000-0001-7090-8717
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2020.05.12.090019
+  title: 'EpiDope: A Deep neural network for linear B-cell epitope prediction'
+  authors:
+  - Maximilian Collatz
+  - Florian Mock
+  - "Martin H\xF6lzer"
+  - Emanuel Barth
+  - Konrad Sachse
+  - Manja Marz
+  publisher: Cold Spring Harbor Laboratory
+  date: '2020-05-13'
+  link: https://doi.org/gtjmj3
+  orcid: 0000-0001-7090-8717
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2020.02.08.939843
+  title: Metagenomics workflow for hybrid assembly, differential coverage binning,
+    transcriptomics and pathway analysis (MUFFIN)
+  authors:
+  - Renaud Van Damme
+  - "Martin H\xF6lzer"
+  - Adrian Viehweger
+  - "Bettina M\xFCller"
+  - Erik Bongcam-Rudloff
+  - Christian Brandt
+  publisher: Cold Spring Harbor Laboratory
+  date: '2020-02-08'
+  link: https://doi.org/gkwvqq
+  orcid: 0000-0001-7090-8717
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2019.12.18.880807
+  title: Inclusion of Oxford Nanopore long reads improves all microbial and phage
+    metagenome-assembled genomes from a complex aquifer system
+  authors:
+  - Will A. Overholt
+  - "Martin H\xF6lzer"
+  - Patricia Geesink
+  - Celia Diezel
+  - Manja Marz
+  - "Kirsten K\xFCsel"
+  publisher: Cold Spring Harbor Laboratory
+  date: '2019-12-19'
+  link: https://doi.org/gkwctb
+  orcid: 0000-0001-7090-8717
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/855262
+  title: 'Addressing dereplication crisis: Taxonomy-free reduction of massive genome
+    collections using embeddings of protein content'
+  authors:
+  - A. Viehweger
+  - M. Hoelzer
+  - C. Brandt
+  publisher: Cold Spring Harbor Laboratory
+  date: '2019-11-25'
+  link: https://doi.org/gkwh8h
+  orcid: 0000-0001-7090-8717
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/483693
+  title: Direct RNA nanopore sequencing of full-length coronavirus genomes provides
+    novel insights into structural variants and enables modification analysis
+  authors:
+  - Adrian Viehweger
+  - Sebastian Krautwurst
+  - Kevin Lamkiewicz
+  - Ramakanth Madhugiri
+  - John Ziebuhr
+  - "Martin H\xF6lzer"
+  - Manja Marz
+  publisher: Cold Spring Harbor Laboratory
+  date: '2018-11-30'
+  link: https://doi.org/gf3s97
+  orcid: 0000-0001-7090-8717
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/738526
+  title: A comprehensive annotation and differential expression analysis of short
+    and long non-coding RNAs in 16 bat genomes
+  authors:
+  - Nelly Mostajo Berrospi
+  - Marie Lataretu
+  - Sebastian Krautwurst
+  - Florian Mock
+  - "Daniel Desir\xF2"
+  - Kevin Lamkiewicz
+  - Maximilian Collatz
+  - Andreas Schoen
+  - Friedemann Weber
+  - Manja Marz
+  - "Martin H\xF6lzer"
+  publisher: Cold Spring Harbor Laboratory
+  date: '2019-08-19'
+  link: https://doi.org/gkxbt8
+  orcid: 0000-0001-7090-8717
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.isci.2019.08.016
+  title: Virus- and Interferon Alpha-Induced Transcriptomes of Cells from the Microbat
+    Myotis daubentonii
+  authors:
+  - "Martin H\xF6lzer"
+  - Andreas Schoen
+  - Julia Wulle
+  - "Marcel A. M\xFCller"
+  - Christian Drosten
+  - Manja Marz
+  - Friedemann Weber
+  publisher: iScience
+  date: '2019-09-01'
+  link: https://doi.org/ggrdm3
+  orcid: 0000-0001-7090-8717
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.syapm.2019.06.002
+  title: Chlamydia buteonis, a new Chlamydia species isolated from a red-shouldered
+    hawk
+  authors:
+  - K. Laroucau
+  - F. Vorimore
+  - R. Aaziz
+  - L. Solmonson
+  - R.C. Hsia
+  - P.M. Bavoil
+  - P. Fach
+  - "M. H\xF6lzer"
+  - A. Wuenschmann
+  - K. Sachse
+  publisher: Systematic and Applied Microbiology
+  date: '2019-09-01'
+  link: https://doi.org/gmsbkw
+  orcid: 0000-0001-7090-8717
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/v11060484
+  title: Evaluation of Sequencing Library Preparation Protocols for Viral Metagenomic
+    Analysis from Pristine Aquifer Groundwaters
+  authors:
+  - "Ren\xE9 Kallies"
+  - "Martin H\xF6lzer"
+  - Rodolfo Brizola Toscan
+  - Ulisses Nunes da Rocha
+  - John Anders
+  - Manja Marz
+  - Antonis Chatzinotas
+  publisher: Viruses
+  date: '2019-05-28'
+  link: https://doi.org/gtjmj4
+  orcid: 0000-0001-7090-8717
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/v11050449
+  title: Structure and Hierarchy of Influenza Virus Models Revealed by Reaction Network
+    Analysis
+  authors:
+  - Stephan Peter
+  - "Martin H\xF6lzer"
+  - Kevin Lamkiewicz
+  - Pietro Speroni di Fenizio
+  - Hassan Al Hwaeer
+  - Manja Marz
+  - Stefan Schuster
+  - Peter Dittrich
+  - Bashar Ibrahim
+  publisher: Viruses
+  date: '2019-05-16'
+  link: https://doi.org/gtjmj5
+  orcid: 0000-0001-7090-8717
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/gigascience/giz039
+  title: 'De novo transcriptome assembly: A comprehensive cross-species comparison
+    of short-read RNA-Seq assemblers'
+  authors:
+  - "Martin H\xF6lzer"
+  - Manja Marz
+  publisher: GigaScience
+  date: '2019-05-01'
+  link: https://doi.org/ghjvpr
+  orcid: 0000-0001-7090-8717
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1084/jem.20181505
+  title: "Cohesin-mediated NF-\u03BAB signaling limits hematopoietic stem cell self-renewal\
+    \ in aging and inflammation"
+  authors:
+  - Zhiyang Chen
+  - Elias Moris Amro
+  - Friedrich Becker
+  - "Martin H\xF6lzer"
+  - Seyed Mohammad Mahdi Rasa
+  - Sospeter Ngoci Njeru
+  - Bing Han
+  - Simone Di Sanzo
+  - Yulin Chen
+  - Duozhuang Tang
+  - Si Tao
+  - Ronny Haenold
+  - Marco Groth
+  - Vasily S. Romanov
+  - Joanna M. Kirkpatrick
+  - Johann M. Kraus
+  - Hans A. Kestler
+  - Manja Marz
+  - Alessandro Ori
+  - Francesco Neri
+  - Yohei Morita
+  - K. Lenhard Rudolph
+  publisher: Journal of Experimental Medicine
+  date: '2018-12-07'
+  link: https://doi.org/gftqwv
+  orcid: 0000-0001-7090-8717
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.virusres.2018.11.005
+  title: "SilentMutations (SIM): A tool for analyzing long-range RNA\u2013RNA interactions\
+    \ in viral genomes and structured RNAs"
+  authors:
+  - "Daniel Desir\xF2"
+  - "Martin H\xF6lzer"
+  - Bashar Ibrahim
+  - Manja Marz
+  publisher: Virus Research
+  date: '2019-01-01'
+  link: https://doi.org/gtjmj6
+  orcid: 0000-0001-7090-8717
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/433078
+  title: 'PCAGO: An interactive web service to analyze RNA-Seq data with principal
+    component analysis'
+  authors:
+  - Ruman Gerst
+  - "Martin H\xF6lzer"
+  publisher: Cold Spring Harbor Laboratory
+  date: '2018-10-03'
+  link: https://doi.org/gkt7gj
+  orcid: 0000-0001-7090-8717
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1128/genomea.00870-17
+  title: "Complete Genome Sequence of JII-1961, a Bovine Mycobacterium avium subsp.\n\
+    \            <i>paratuberculosis</i>\n            Field Isolate from Germany"
+  authors:
+  - "Petra M\xF6bius"
+  - Gabriele Nordsiek
+  - "Martin H\xF6lzer"
+  - Michael Jarek
+  - Manja Marz
+  - "Heike K\xF6hler"
+  publisher: Genome Announcements
+  date: '2017-08-24'
+  link: https://doi.org/gtjmj7
+  orcid: 0000-0001-7090-8717
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1128/jvi.00361-17
+  title: Evolution and Antiviral Specificities of Interferon-Induced Mx Proteins of
+    Bats against Ebola, Influenza, and Other RNA Viruses
+  authors:
+  - Jonas Fuchs
+  - "Martin H\xF6lzer"
+  - Mirjam Schilling
+  - Corinna Patzina
+  - Andreas Schoen
+  - Thomas Hoenen
+  - Gert Zimmer
+  - Manja Marz
+  - Friedemann Weber
+  - "Marcel A. M\xFCller"
+  - Georg Kochs
+  publisher: Journal of Virology
+  date: '2017-08-01'
+  link: https://doi.org/gtjmj8
+  orcid: 0000-0001-7090-8717
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.vetmic.2017.01.026
+  title: Evaluation of associations between genotypes of Mycobacterium avium subsp.
+    paratuberculsis and presence of intestinal lesions characteristic of paratuberculosis
+  authors:
+  - "Petra M\xF6bius"
+  - Elisabeth Liebler-Tenorio
+  - "Martin H\xF6lzer"
+  - "Heike K\xF6hler"
+  publisher: Veterinary Microbiology
+  date: '2017-03-01'
+  link: https://doi.org/f9z86k
+  orcid: 0000-0001-7090-8717
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/srep40599
+  title: Differential Effects of Vitamins A and D on the Transcriptional Landscape
+    of Human Monocytes during Infection
+  authors:
+  - Tilman E. Klassert
+  - "Julia Br\xE4uer"
+  - "Martin H\xF6lzer"
+  - Magdalena Stock
+  - Konstantin Riege
+  - "Cristina Zubir\xEDa-Barrera"
+  - "Mario M. M\xFCller"
+  - Silke Rummler
+  - Christine Skerka
+  - Manja Marz
+  - Hortense Slevogt
+  publisher: Scientific Reports
+  date: '2017-01-17'
+  link: https://doi.org/f9m7kx
+  orcid: 0000-0001-7090-8717
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/srep40598
+  title: Massive Effect on LncRNAs in Human Monocytes During Fungal and Bacterial
+    Infections and in Response to Vitamins A and D
+  authors:
+  - Konstantin Riege
+  - "Martin H\xF6lzer"
+  - Tilman E. Klassert
+  - Emanuel Barth
+  - "Julia Br\xE4uer"
+  - Maximilian Collatz
+  - Franziska Hufsky
+  - Nelly Mostajo
+  - Magdalena Stock
+  - Bertram Vogel
+  - Hortense Slevogt
+  - Manja Marz
+  publisher: Scientific Reports
+  date: '2017-01-17'
+  link: https://doi.org/gtjmj9
+  orcid: 0000-0001-7090-8717
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/bs.aivir.2017.08.004
+  title: "Software Dedicated to Virus Sequence Analysis \u201CBioinformatics Goes\
+    \ Viral\u201D"
+  authors:
+  - "Martin H\xF6lzer"
+  - Manja Marz
+  publisher: "In Loeffler\u2019s Footsteps \u2013 Viral Genomics in the Era of High-Throughput\
+    \ Sequencing"
+  date: '2017-01-01'
+  link: https://doi.org/ggd46h
+  orcid: 0000-0001-7090-8717
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/srep34589
+  title: Differential transcriptional responses to Ebola and Marburg virus infection
+    in bat and human cells
+  authors:
+  - "Martin H\xF6lzer"
+  - "Verena Kr\xE4hling"
+  - Fabian Amman
+  - Emanuel Barth
+  - Stephan H. Bernhart
+  - Victor A. O. Carmelo
+  - Maximilian Collatz
+  - Gero Doose
+  - Florian Eggenhofer
+  - Jan Ewald
+  - "J\xF6rg Fallmann"
+  - Lasse M. Feldhahn
+  - Markus Fricke
+  - Juliane Gebauer
+  - Andreas J. Gruber
+  - Franziska Hufsky
+  - Henrike Indrischek
+  - Sabina Kanton
+  - "J\xF6rg Linde"
+  - Nelly Mostajo
+  - Roman Ochsenreiter
+  - Konstantin Riege
+  - Lorena Rivarola-Duarte
+  - Abdullah H. Sahyoun
+  - Sita J. Saunders
+  - Stefan E. Seemann
+  - Andrea Tanzer
+  - Bertram Vogel
+  - Stefanie Wehner
+  - Michael T. Wolfinger
+  - Rolf Backofen
+  - Jan Gorodkin
+  - Ivo Grosse
+  - Ivo Hofacker
+  - Steve Hoffmann
+  - Christoph Kaleta
+  - Peter F. Stadler
+  - Stephan Becker
+  - Manja Marz
+  publisher: Scientific Reports
+  date: '2016-10-07'
+  link: https://doi.org/gtjmkb
+  orcid: 0000-0001-7090-8717
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1128/genomea.00708-16
+  title: "Whole-Genome Sequence of\n            <i>Chlamydia gallinacea</i>\n    \
+    \        Type Strain 08-1274/3"
+  authors:
+  - "Martin H\xF6lzer"
+  - Karine Laroucau
+  - Heather Huot Creasy
+  - Sandra Ott
+  - Fabien Vorimore
+  - Patrik M. Bavoil
+  - Manja Marz
+  - Konrad Sachse
+  publisher: Genome Announcements
+  date: '2016-08-25'
+  link: https://doi.org/gkdb5h
+  orcid: 0000-0001-7090-8717
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmc:PMC4607514
+  title: Comprehensive insights in the Mycobacterium avium subsp. paratuberculosis
+    genome using new WGS data of sheep strain JIII-386 from Germany.
+  authors:
+  - "Petra M\xF6bius"
+  - "Martin H\xF6lzer"
+  - Marius Felder
+  - Gabriele Nordsiek
+  - Marco Groth
+  - "Heike K\xF6hler"
+  - Kathrin Reichwald
+  - Matthias Platzer
+  - Manja Marz
+  publisher: Genome biology and evolution
+  date: '2017-10-24'
+  link: http://europepmc.org/abstract/med/26384038
+  orcid: 0000-0001-7090-8717
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/nar/gkv746
+  title: Towards a comprehensive picture of alloacceptor tRNA remolding in metazoan
+    mitochondrial genomes
+  authors:
+  - "Abdullah\_H. Sahyoun"
+  - "Martin H\xF6lzer"
+  - "Frank J\xFChling"
+  - "Christian H\xF6ner\_zu\_Siederdissen"
+  - Marwa Al-Arab
+  - Kifah Tout
+  - Manja Marz
+  - Martin Middendorf
+  - "Peter\_F. Stadler"
+  - Matthias Bernt
+  publisher: Nucleic Acids Research
+  date: '2015-07-30'
+  link: https://doi.org/f7sxdz
+  orcid: 0000-0001-7090-8717
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.20944/preprints202005.0376.v1
+  title: 'Computational Strategies to Combat COVID-19: Useful Tools to Accelerate
+    SARS-CoV-2 and Coronavirus Research'
+  authors:
+  - Franziska Hufsky
+  - Kevin Lamkiewicz
+  - Alexandre Almeida
+  - Abdel Aouacheria
+  - Cecilia Arighi
+  - Alex Bateman
+  - Jan Baumbach
+  - Niko Beerenwinkel
+  - Christian Brandt
+  - Marco Cacciabue
+  - Sara Chuguransky
+  - Oliver Drechsel
+  - Robert D. Finn
+  - Adrian Fritz
+  - Stephan Fuchs
+  - Georges Hattab
+  - Anne-Christin Hauschild
+  - Dominik Heider
+  - Marie Hoffmann
+  - "Martin H\xF6lzer"
+  - Stefan Hoops
+  - Lars Kaderali
+  - Ioanna Kalvari
+  - Max von Kleist
+  - "Rene\u0301 Kmiecinski"
+  - "Denise K\xFChnert"
+  - Gorka Lasso
+  - Pieter Libin
+  - Markus List
+  - "Hannah F. L\xF6chel"
+  - Maria J. Martin
+  - Roman Martin
+  - Julian Matschinske
+  - Alice C. McHardy
+  - Pedro Mendes
+  - Jaina Mistry
+  - Vincent Navratil
+  - Eric Nawrocki
+  - "\xC1ine Niamh O'Toole"
+  - Nancy Palacios-Ontiveros
+  - Anton I. Petrov
+  - "Guillermo Rangel-Pi\xF1eros"
+  - Nicole Redaschi
+  - Susanne Reimering
+  - Knut Reinert
+  - Alejandro Reyes
+  - Lorna Richardson
+  - David L. Robertson
+  - Sepideh Sadegh
+  - Joshua B. Singer
+  - Kristof Theys
+  - Chris Upton
+  - Marius Welzel
+  - Lowri Williams
+  - Manja Marz
+  publisher: MDPI AG
+  date: '2020-05-23'
+  link: https://doi.org/gmg9sz
+  orcid: 0000-0001-7090-8717
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2024.01.09.574630
+  title: Reannotation of the zebra finch genome reveals undiscovered transcriptional
+    complexity
+  authors:
+  - Hugues Richard
+  - John Wiedenhoeft
+  - Constance Scharff
+  - Iris Adam
+  publisher: Cold Spring Harbor Laboratory
+  date: '2024-01-09'
+  link: https://doi.org/gtjmkc
+  orcid: 0000-0001-7776-1340
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/nph.19429
+  title: "Dicer\u2010dependent heterochromatic small <scp>RNAs</scp> in the model\
+    \ diatom species <i>Phaeodactylum tricornutum</i>"
+  authors:
+  - Emilia Grypioti
+  - Hugues Richard
+  - Nikoleta Kryovrysanaki
+  - Marianne Jaubert
+  - Angela Falciatore
+  - "Fr\xE9d\xE9ric Verret"
+  - Kriton Kalantidis
+  publisher: New Phytologist
+  date: '2023-12-03'
+  link: https://doi.org/gtjmkd
+  orcid: 0000-0001-7776-1340
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/s40168-023-01670-3
+  title: 'decOM: similarity-based microbial source tracking of ancient oral samples
+    using k-mer-based methods'
+  authors:
+  - "Camila Duitama\_Gonz\xE1lez"
+  - Riccardo Vicedomini
+  - "T\xE9o Lemane"
+  - Nicolas Rascovan
+  - Hugues Richard
+  - Rayan Chikhi
+  publisher: Microbiome
+  date: '2023-11-06'
+  link: https://doi.org/gtjmkf
+  orcid: 0000-0001-7776-1340
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.isci.2023.108057
+  title: 'aKmerBroom: Ancient oral DNA decontamination using Bloom filters on k-mer
+    sets'
+  authors:
+  - "Camila Duitama Gonz\xE1lez"
+  - Samarth Rangavittal
+  - Riccardo Vicedomini
+  - Rayan Chikhi
+  - Hugues Richard
+  publisher: iScience
+  date: '2023-11-01'
+  link: https://doi.org/gtjmkg
+  orcid: 0000-0001-7776-1340
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2023.04.29.538821
+  title: Building alternative splicing and evolution-aware sequence-structure maps
+    for protein repeats
+  authors:
+  - Antoine Szatkownik
+  - Diego Javier Zea
+  - Hugues Richard
+  - Elodie Laine
+  publisher: Cold Spring Harbor Laboratory
+  date: '2023-04-30'
+  link: https://doi.org/gtjmkh
+  orcid: 0000-0001-7776-1340
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/bioinformatics/btac105
+  title: 'ASES: visualizing evolutionary conservation of alternative splicing in proteins'
+  authors:
+  - Diego Javier Zea
+  - Hugues Richard
+  - Elodie Laine
+  publisher: Bioinformatics
+  date: '2022-02-21'
+  link: https://doi.org/gtjmkj
+  orcid: 0000-0001-7776-1340
+  plugin: orcid.py
+  file: orcid.yaml
+- id: hal:tel-03636135
+  title: Statistical methods for analysing high throughput sequencing data
+  date: '2022-06-07'
+  link: https://hal.archives-ouvertes.fr/tel-03636135
+  orcid: 0000-0001-7776-1340
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1099/mgen.0.000623
+  title: "Mutations in the gdpP gene are a clinically relevant mechanism for \u03B2\
+    -lactam resistance in meticillin-resistant Staphylococcus aureus lacking mec determinants"
+  authors:
+  - Anna Sommer
+  - Stephan Fuchs
+  - Franziska Layer
+  - Christoph Schaudinn
+  - Robert E. Weber
+  - Hugues Richard
+  - Mareike B. Erdmann
+  - Michael Laue
+  - Christopher F. Schuster
+  - Guido Werner
+  - Birgit Strommenger
+  publisher: Microbial Genomics
+  date: '2021-09-09'
+  link: https://doi.org/gmqkwx
+  orcid: 0000-0001-7776-1340
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/gr.274696.120
+  title: Assessing conservation of alternative splicing with evolutionary splicing
+    graphs
+  authors:
+  - Diego Javier Zea
+  - Sofya Laskina
+  - Alexis Baudin
+  - Hugues Richard
+  - Elodie Laine
+  publisher: Genome Research
+  date: '2021-06-15'
+  link: https://doi.org/gwxg
+  orcid: 0000-0001-7776-1340
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.cell.2021.05.002
+  title: A global metagenomic map of urban microbiomes and antimicrobial resistance
+  authors:
+  - David Danko
+  - Daniela Bezdan
+  - Evan E. Afshin
+  - Sofia Ahsanuddin
+  - Chandrima Bhattacharya
+  - Daniel J. Butler
+  - Kern Rei Chng
+  - Daisy Donnellan
+  - Jochen Hecht
+  - Katelyn Jackson
+  - Katerina Kuchin
+  - Mikhail Karasikov
+  - Abigail Lyons
+  - Lauren Mak
+  - Dmitry Meleshko
+  - Harun Mustafa
+  - Beth Mutai
+  - Russell Y. Neches
+  - Amanda Ng
+  - Olga Nikolayeva
+  - Tatyana Nikolayeva
+  - Eileen Png
+  - Krista A. Ryon
+  - Jorge L. Sanchez
+  - Heba Shaaban
+  - Maria A. Sierra
+  - Dominique Thomas
+  - Ben Young
+  - Omar O. Abudayyeh
+  - Josue Alicea
+  - Malay Bhattacharyya
+  - Ran Blekhman
+  - Eduardo Castro-Nallar
+  - "Ana M. Ca\xF1as"
+  - Aspassia D. Chatziefthimiou
+  - Robert W. Crawford
+  - Francesca De Filippis
+  - Youping Deng
+  - Christelle Desnues
+  - Emmanuel Dias-Neto
+  - Marius Dybwad
+  - Eran Elhaik
+  - Danilo Ercolini
+  - Alina Frolova
+  - Dennis Gankin
+  - Jonathan S. Gootenberg
+  - Alexandra B. Graf
+  - David C. Green
+  - Iman Hajirasouliha
+  - Jaden J.A. Hastings
+  - Mark Hernandez
+  - Gregorio Iraola
+  - Soojin Jang
+  - Andre Kahles
+  - Frank J. Kelly
+  - Kaymisha Knights
+  - Nikos C. Kyrpides
+  - "Pawe\u0142 P. \u0141abaj"
+  - Patrick K.H. Lee
+  - Marcus H.Y. Leung
+  - Per O. Ljungdahl
+  - Gabriella Mason-Buck
+  - Ken McGrath
+  - Cem Meydan
+  - Emmanuel F. Mongodin
+  - Milton Ozorio Moraes
+  - Niranjan Nagarajan
+  - Marina Nieto-Caballero
+  - Houtan Noushmehr
+  - Manuela Oliveira
+  - Stephan Ossowski
+  - Olayinka O. Osuolale
+  - "Orhan \xD6zcan"
+  - David Paez-Espino
+  - "Nicol\xE1s Rascovan"
+  - Hugues Richard
+  - "Gunnar R\xE4tsch"
+  - Lynn M. Schriml
+  - Torsten Semmler
+  - Osman U. Sezerman
+  - Leming Shi
+  - Tieliu Shi
+  - Rania Siam
+  - Le Huu Song
+  - Haruo Suzuki
+  - Denise Syndercombe Court
+  - Scott W. Tighe
+  - Xinzhao Tong
+  - Klas I. Udekwu
+  - Juan A. Ugalde
+  - Brandon Valentine
+  - Dimitar I. Vassilev
+  - Elena M. Vayndorf
+  - Thirumalaisamy P. Velavan
+  - Jun Wu
+  - "Mar\xEDa M. Zambrano"
+  - Jifeng Zhu
+  - Sibo Zhu
+  - Christopher E. Mason
+  - Natasha Abdullah
+  - Marcos Abraao
+  - Ait-hamlat Adel
+  - Muhammad Afaq
+  - Faisal S. Al-Quaddoomi
+  - Ireen Alam
+  - Gabriela E. Albuquerque
+  - Alex Alexiev
+  - Kalyn Ali
+  - Lucia E. Alvarado-Arnez
+  - Sarh Aly
+  - Jennifer Amachee
+  - Maria G. Amorim
+  - Majelia Ampadu
+  - Muhammad Al-Fath Amran
+  - Nala An
+  - Watson Andrew
+  - Harilanto Andrianjakarivony
+  - Michael Angelov
+  - "Ver\xF3nica Antelo"
+  - Catharine Aquino
+  - "\xC1lvaro Aranguren"
+  - Luiza F. Araujo
+  - Hitler Francois Vasquez Arevalo
+  - Jenny Arevalo
+  - Carme Arnan
+  - Lucia Elena Alvarado Arnez
+  - Fernanda Arredondo
+  - Matthew Arthur
+  - Freddy Asenjo
+  - Thomas Saw Aung
+  - Juliette Auvinet
+  - Nuria Aventin
+  - Sadaf Ayaz
+  - Silva Baburyan
+  - Abd-Manaaf Bakere
+  - Katrin Bakhl
+  - Thais F. Bartelli
+  - Erdenetsetseg Batdelger
+  - "Fran\xE7ois Baudon"
+  - Kevin Becher
+  - Carla Bello
+  - "M\xE9dine Benchouaia"
+  - Hannah Benisty
+  - Anne-Sophie Benoiston
+  - Joseph Benson
+  - "Diego Ben\xEDtez"
+  - Juliana Bernardes
+  - Denis Bertrand
+  - Silvia Beurmann
+  - Tristan Bitard-Feildel
+  - Lucie Bittner
+  - Christina Black
+  - Guillaume Blanc
+  - Brittany Blyther
+  - Toni Bode
+  - Julia Boeri
+  - Bazartseren Boldgiv
+  - Kevin Bolzli
+  - Alexia Bordigoni
+  - Ciro Borrelli
+  - Sonia Bouchard
+  - Jean-Pierre Bouly
+  - Alicia Boyd
+  - Gabriela P. Branco
+  - Alessandra Breschi
+  - "Bj\xF6rn Brindefalk"
+  - Christian Brion
+  - Alan Briones
+  - Paulina Buczansla
+  - Catherine M. Burke
+  - Aszia Burrell
+  - Alina Butova
+  - Irvind Buttar
+  - Jalia Bynoe
+  - "Sven B\xF6nigk"
+  - "Kari O. B\xF8ifot"
+  - Hiram Caballero
+  - Xiao Wen Cai
+  - Dayana Calderon
+  - Angela Cantillo
+  - Miguel Carbajo
+  - Alessandra Carbone
+  - Anais Cardenas
+  - Katerine Carrillo
+  - Laurie Casalot
+  - Sofia Castro
+  - Ana V. Castro
+  - Astred Castro
+  - Ana Valeria B. Castro
+  - Simone Cawthorne
+  - Jonathan Cedillo
+  - Salama Chaker
+  - Jasna Chalangal
+  - Allison Chan
+  - Anastasia I. Chasapi
+  - Starr Chatziefthimiou
+  - Sreya Ray Chaudhuri
+  - Akash Keluth Chavan
+  - Francisco Chavez
+  - Gregory Chem
+  - Xiaoqing Chen
+  - Michelle Chen
+  - Jenn-Wei Chen
+  - Ariel Chernomoretz
+  - Allaeddine Chettouh
+  - Daisy Cheung
+  - Diana Chicas
+  - Shirley Chiu
+  - Hira Choudhry
+  - Carl Chrispin
+  - Kianna Ciaramella
+  - Erika Cifuentes
+  - Jake Cohen
+  - David A. Coil
+  - Sylvie Collin
+  - Colleen Conger
+  - Romain Conte
+  - Flavia Corsi
+  - Cecilia N. Cossio
+  - Ana F. Costa
+  - Delisia Cuebas
+  - "Bruno D\u2019Alessandro"
+  - Katherine E. Dahlhausen
+  - Aaron E. Darling
+  - Pujita Das
+  - Lucinda B. Davenport
+  - Laurent David
+  - Natalie R. Davidson
+  - Gargi Dayama
+  - "St\xE9phane Delmas"
+  - Chris K. Deng
+  - "Chlo\xE9 Dequeker"
+  - Alexandre Desert
+  - Monika Devi
+  - Felipe S. Dezem
+  - Clara N. Dias
+  - Timothy Ryan Donahoe
+  - Sonia Dorado
+  - LaShonda Dorsey
+  - Valeriia Dotsenko
+  - Steven Du
+  - Alexandra Dutan
+  - Naya Eady
+  - Jonathan A. Eisen
+  - Miar Elaskandrany
+  - Lennard Epping
+  - Juan P. Escalera-Antezana
+  - Cassie L. Ettinger
+  - Iqra Faiz
+  - Luice Fan
+  - Nadine Farhat
+  - Emile Faure
+  - Fazlina Fauzi
+  - Charlie Feigin
+  - Skye Felice
+  - "La\xEDs Pereira Ferreira"
+  - Gabriel Figueroa
+  - Aubin Fleiss
+  - Denisse Flores
+  - Jhovana L. Velasco Flores
+  - Marcos A.S. Fonseca
+  - Jonathan Foox
+  - Juan Carlos Forero
+  - Aaishah Francis
+  - Kelly French
+  - Pablo Fresia
+  - Jacob Friedman
+  - Jaime J. Fuentes
+  - Josephine Galipon
+  - Mathilde Garcia
+  - Laura Garcia
+  - "Catalina Garc\xEDa"
+  - Annie Geiger
+  - Samuel M. Gerner
+  - Sonia L. Ghose
+  - Dao Phuong Giang
+  - "Mat\xEDas Gim\xE9nez"
+  - Donato Giovannelli
+  - Dedan Githae
+  - Spyridon Gkotzis
+  - Liliana Godoy
+  - Samantha Goldman
+  - Gaston H. Gonnet
+  - Juana Gonzalez
+  - Andrea Gonzalez
+  - Camila Gonzalez-Poblete
+  - Andrew Gray
+  - Tranette Gregory
+  - Charlotte Greselle
+  - Sophie Guasco
+  - Juan Guerra
+  - Nika Gurianova
+  - Wolfgang Haehr
+  - Sebastien Halary
+  - Felix Hartkopf
+  - Jaden J.A. Hastings
+  - Arya Hawkins-Zafarnia
+  - Nur Hazlin Hazrin-Chong
+  - Eric Helfrich
+  - Eva Hell
+  - Tamera Henry
+  - Samuel Hernandez
+  - Pilar Lopez Hernandez
+  - David Hess-Homeier
+  - Lauren E. Hittle
+  - Nghiem Xuan Hoan
+  - Aliaksei Holik
+  - Chiaki Homma
+  - Irene Hoxie
+  - Michael Huber
+  - Elizabeth Humphries
+  - Stephanie Hyland
+  - "Andrea H\xE4ssig"
+  - "Roland H\xE4usler"
+  - "Nathalie H\xFCsser"
+  - Robert A. Petit
+  - Badamnyambuu Iderzorig
+  - Mizuki Igarashi
+  - Shaikh B. Iqbal
+  - Shino Ishikawa
+  - Sakura Ishizuka
+  - Sharah Islam
+  - Riham Islam
+  - Kohei Ito
+  - Sota Ito
+  - Takayuki Ito
+  - Tomislav Ivankovic
+  - Tomoki Iwashiro
+  - Sarah Jackson
+  - JoAnn Jacobs
+  - Marisano James
+  - Marianne Jaubert
+  - Marie-Laure Jerier
+  - Esmeralda Jiminez
+  - Ayantu Jinfessa
+  - Ymke De Jong
+  - Hyun Woo Joo
+  - Guilllaume Jospin
+  - Takema Kajita
+  - Affifah Saadah Ahmad Kassim
+  - Nao Kato
+  - Amrit Kaur
+  - Inderjit Kaur
+  - Fernanda de Souza Gomes Kehdy
+  - Vedbar S. Khadka
+  - Shaira Khan
+  - Mahshid Khavari
+  - Michelle Ki
+  - Gina Kim
+  - Hyung Jun Kim
+  - Sangwan Kim
+  - Ryan J. King
+  - Kaymisha Knights
+  - Giuseppe KoLoMonaco
+  - Ellen Koag
+  - Nadezhda Kobko-Litskevitch
+  - Maryna Korshevniuk
+  - Michael Kozhar
+  - Jonas Krebs
+  - Nanami Kubota
+  - Andrii Kuklin
+  - Sheelta S. Kumar
+  - Rachel Kwong
+  - Lawrence Kwong
+  - Ingrid Lafontaine
+  - Juliana Lago
+  - Tsoi Ying Lai
+  - Elodie Laine
+  - Manolo Laiola
+  - Olha Lakhneko
+  - Isha Lamba
+  - Gerardo de Lamotte
+  - Romain Lannes
+  - Eleonora De Lazzari
+  - Madeline Leahy
+  - Hyunjung Lee
+  - Yunmi Lee
+  - Lucy Lee
+  - Vincent Lemaire
+  - Emily Leong
+  - Marcus H.Y. Leung
+  - Dagmara Lewandowska
+  - Chenhao Li
+  - Weijun Liang
+  - Moses Lin
+  - Priscilla Lisboa
+  - Anna Litskevitch
+  - Eric Minwei Liu
+  - Tracy Liu
+  - Mayra Arauco Livia
+  - Yui Him Lo
+  - Sonia Losim
+  - Manon Loubens
+  - Jennifer Lu
+  - Olexandr Lykhenko
+  - Simona Lysakova
+  - Salah Mahmoud
+  - Sara Abdul Majid
+  - Natalka Makogon
+  - Denisse Maldonado
+  - Krizzy Mallari
+  - Tathiane M. Malta
+  - Maliha Mamun
+  - Dimitri Manoir
+  - German Marchandon
+  - Natalia Marciniak
+  - Sonia Marinovic
+  - Brunna Marques
+  - Nicole Mathews
+  - Yuri Matsuzaki
+  - Vincent Matthys
+  - Madelyn May
+  - Elias McComb
+  - Annabelle Meagher
+  - Adiell Melamed
+  - Wayne Menary
+  - Katterinne N. Mendez
+  - Ambar Mendez
+  - "Ir\xE8ne Mauricette Mendy"
+  - Irene Meng
+  - Ajay Menon
+  - Mark Menor
+  - Roy Meoded
+  - Nancy Merino
+  - Cem Meydan
+  - Karishma Miah
+  - Mathilde Mignotte
+  - Tanja Miketic
+  - Wilson Miranda
+  - Athena Mitsios
+  - Ryusei Miura
+  - Kunihiko Miyake
+  - Maria D. Moccia
+  - Natasha Mohan
+  - Mohammed Mohsin
+  - Karobi Moitra
+  - Mauricio Moldes
+  - Laura Molina
+  - Jennifer Molinet
+  - Orgil-Erdene Molomjamts
+  - Eftar Moniruzzaman
+  - Sookwon Moon
+  - Isabelle de Oliveira Moraes
+  - Mario Moreno
+  - Maritza S. Mosella
+  - Josef W. Moser
+  - Christopher Mozsary
+  - Amanda L. Muehlbauer
+  - Oasima Muner
+  - Muntaha Munia
+  - Naimah Munim
+  - Maureen Muscat
+  - Tatjana Mustac
+  - "Cristina Mu\xF1oz"
+  - Francesca Nadalin
+  - Areeg Naeem
+  - Dorottya Nagy-Szakal
+  - Mayuko Nakagawa
+  - Ashanti Narce
+  - Masaki Nasu
+  - "Irene Gonz\xE1lez Navarrete"
+  - Hiba Naveed
+  - Bryan Nazario
+  - Narasimha Rao Nedunuri
+  - Thomas Neff
+  - Aida Nesimi
+  - Wan Chiew Ng
+  - Synti Ng
+  - Gloria Nguyen
+  - Elsy Ngwa
+  - Agier Nicolas
+  - Pierre Nicolas
+  - Abdollahi Nika
+  - Hosna Noorzi
+  - Avigdor Nosrati
+  - Houtan Noushmehr
+  - Diana N. Nunes
+  - "Kathryn O\u2019Brien"
+  - "Niamh B. O\u2019Hara"
+  - Gabriella Oken
+  - Rantimi A. Olawoyin
+  - Javier Quilez Oliete
+  - Kiara Olmeda
+  - Tolulope Oluwadare
+  - Itunu A. Oluwadare
+  - Nils Ordioni
+  - Jenessa Orpilla
+  - Jacqueline Orrego
+  - Melissa Ortega
+  - Princess Osma
+  - Israel O. Osuolale
+  - Oluwatosin M. Osuolale
+  - Mitsuki Ota
+  - Francesco Oteri
+  - Yuya Oto
+  - Rachid Ounit
+  - Christos A. Ouzounis
+  - Subhamitra Pakrashi
+  - Rachel Paras
+  - Coral Pardo-Este
+  - Young-Ja Park
+  - Paulina Pastuszek
+  - Suraj Patel
+  - Jananan Pathmanathan
+  - Andrea Patrignani
+  - Manuel Perez
+  - Ante Peros
+  - Sabrina Persaud
+  - Anisia Peters
+  - Adam Phillips
+  - Lisbeth Pineda
+  - Melissa P. Pizzi
+  - Alma Plaku
+  - Alketa Plaku
+  - Brianna Pompa-Hogan
+  - "Mar\xEDa Gabriela Portilla"
+  - Leonardo Posada
+  - Max Priestman
+  - Bharath Prithiviraj
+  - Sambhawa Priya
+  - Phanthira Pugdeethosal
+  - Catherine E. Pugh
+  - Benjamin Pulatov
+  - Angelika Pupiec
+  - Kyrylo Pyrshev
+  - Tao Qing
+  - Saher Rahiel
+  - Savlatjon Rahmatulloev
+  - Kannan Rajendran
+  - Aneisa Ramcharan
+  - Adan Ramirez-Rojas
+  - Shahryar Rana
+  - Prashanthi Ratnanandan
+  - Timothy D. Read
+  - Hubert Rehrauer
+  - Renee Richer
+  - Alexis Rivera
+  - Michelle Rivera
+  - Alessandro Robertiello
+  - Courtney Robinson
+  - "Paula Rodr\xEDguez"
+  - Nayra Aguilar Rojas
+  - "Paul Rold\xE1n"
+  - Anyelic Rosario
+  - Sandra Roth
+  - Maria Ruiz
+  - Stephen Eduard Boja Ruiz
+  - Kaitlan Russell
+  - Mariia Rybak
+  - Thais S. Sabedot
+  - Mahfuza Sabina
+  - Ikuto Saito
+  - Yoshitaka Saito
+  - Gustavo Adolfo Malca Salas
+  - Cecilia Salazar
+  - Kaung Myat San
+  - Jorge Sanchez
+  - Khaliun Sanchir
+  - Ryan Sankar
+  - Paulo Thiago de Souza Santos
+  - Zulena Saravi
+  - Kai Sasaki
+  - Yuma Sato
+  - Masaki Sato
+  - Seisuke Sato
+  - Ryo Sato
+  - Kaisei Sato
+  - Nowshin Sayara
+  - Steffen Schaaf
+  - Oli Schacher
+  - Anna-Lena M. Schinke
+  - Ralph Schlapbach
+  - Christian Schori
+  - Jason R. Schriml
+  - Felipe Segato
+  - Felipe Sepulveda
+  - Marianna S. Serpa
+  - Paola F. De Sessions
+  - Juan C. Severyn
+  - Heba Shaaban
+  - Maheen Shakil
+  - Sarah Shalaby
+  - Aliyah Shari
+  - Hyenah Shim
+  - Hikaru Shirahata
+  - Yuh Shiwa
+  - Rania Siam
+  - "Oph\xE9lie Da Silva"
+  - Jordana M. Silva
+  - Gwenola Simon
+  - Shaleni K. Singh
+  - Kasia Sluzek
+  - Rebecca Smith
+  - Eunice So
+  - "N\xFAria Andreu Somavilla"
+  - Yuya Sonohara
+  - Nuno Rufino de Sousa
+  - Camila Souza
+  - Jason Sperry
+  - Nicolas Sprinsky
+  - Stefan G. Stark
+  - Antonietta La Storia
+  - Kiyoshi Suganuma
+  - Hamood Suliman
+  - Jill Sullivan
+  - Arif Asyraf Md Supie
+  - Chisato Suzuki
+  - Sora Takagi
+  - Fumie Takahara
+  - Naoya Takahashi
+  - Kou Takahashi
+  - Tomoki Takeda
+  - Isabella K. Takenaka
+  - Soma Tanaka
+  - Anyi Tang
+  - Yuk Man Tang
+  - Emilio Tarcitano
+  - Andrea Tassinari
+  - Mahdi Taye
+  - Alexis Terrero
+  - Eunice Thambiraja
+  - "Antonin Thi\xE9baut"
+  - Sade Thomas
+  - Andrew M. Thomas
+  - Yuto Togashi
+  - Takumi Togashi
+  - Anna Tomaselli
+  - Masaru Tomita
+  - Itsuki Tomita
+  - Xinzhao Tong
+  - Oliver Toth
+  - Nora C. Toussaint
+  - Jennifer M. Tran
+  - Catalina Truong
+  - Stefan I. Tsonev
+  - Kazutoshi Tsuda
+  - Takafumi Tsurumaki
+  - Michelle Tuz
+  - Yelyzaveta Tymoshenko
+  - Carmen Urgiles
+  - Mariko Usui
+  - Sophie Vacant
+  - Brandon Valentine
+  - Laura E. Vann
+  - Fabienne Velter
+  - Valeria Ventorino
+  - Patricia Vera-Wolf
+  - Riccardo Vicedomini
+  - Michael A. Suarez-Villamil
+  - Sierra Vincent
+  - Renee Vivancos-Koopman
+  - Andrew Wan
+  - Cindy Wang
+  - Tomoro Warashina
+  - Ayuki Watanabe
+  - Samuel Weekes
+  - Johannes Werner
+  - David Westfall
+  - Lothar H. Wieler
+  - Michelle Williams
+  - Silver A. Wolf
+  - Brian Wong
+  - Yan Ling Wong
+  - Tyler Wong
+  - Rasheena Wright
+  - Tina Wunderlin
+  - Ryota Yamanaka
+  - Jingcheng Yang
+  - Hirokazu Yano
+  - George C. Yeh
+  - Olena Yemets
+  - Tetiana Yeskova
+  - Shusei Yoshikawa
+  - Laraib Zafar
+  - Yang Zhang
+  - Shu Zhang
+  - Amy Zhang
+  - Yuanting Zheng
+  - Stas Zubenko
+  publisher: Cell
+  date: '2021-06-01'
+  link: https://doi.org/gfgb
+  orcid: 0000-0001-7776-1340
+  plugin: orcid.py
+  file: orcid.yaml
+- id: hal:hal-03274456
+  title: Assessing Conservation of Alternative Splicing with Evolutionary Splicing
+    Graphs
+  publisher: Genome Research
+  date: '2022-06-07'
+  link: https://hal.sorbonne-universite.fr/hal-03274456
+  orcid: 0000-0001-7776-1340
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2020.11.14.382820
+  title: Assessing Conservation of Alternative Splicing with Evolutionary Splicing
+    Graphs
+  authors:
+  - Diego Javier Zea
+  - Sofya Laskina
+  - Alexis Baudin
+  - Hugues Richard
+  - Elodie Laine
+  publisher: Cold Spring Harbor Laboratory
+  date: '2020-11-15'
+  link: https://doi.org/ghn3f3
+  orcid: 0000-0001-7776-1340
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/bioinformatics/btaa272
+  title: Targeted domain assembly for fast functional profiling of metagenomic datasets
+    with S3A
+  authors:
+  - Laurent David
+  - Riccardo Vicedomini
+  - Hugues Richard
+  - Alessandra Carbone
+  publisher: Bioinformatics
+  date: '2020-04-24'
+  link: https://doi.org/gtjmkk
+  orcid: 0000-0001-7776-1340
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.jmb.2020.01.032
+  title: "Transcripts\u2019 Evolutionary History and Structural Dynamics Give Mechanistic\
+    \ Insights into the Functional Diversity of the JNK Family"
+  authors:
+  - Adel Ait-hamlat
+  - Diego Javier Zea
+  - Antoine Labeeuw
+  - "L\xE9lia Polit"
+  - Hugues Richard
+  - Elodie Laine
+  publisher: Journal of Molecular Biology
+  date: '2020-03-01'
+  link: https://doi.org/gwxh
+  orcid: 0000-0001-7776-1340
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/724526
+  title: Global Genetic Cartography of Urban Metagenomes and Anti-Microbial Resistance
+  authors:
+  - David Danko
+  - Daniela Bezdan
+  - Ebrahim Afshinnekoo
+  - Sofia Ahsanuddin
+  - Chandrima Bhattacharya
+  - Daniel J Butler
+  - Kern Rei Chng
+  - Daisy Donnellan
+  - Jochen Hecht
+  - Katelyn Jackson
+  - Katerina Kuchin
+  - Mikhail Karasikov
+  - Abigail Lyons
+  - Lauren Mak
+  - Dmitry Meleshko
+  - Harun Mustafa
+  - Beth Mutai
+  - Russell Y Neches
+  - Amanda Ng
+  - Olga Nikolayeva
+  - Tatyana Nikolayeva
+  - Eileen Png
+  - Krista Ryon
+  - Jorge L Sanchez
+  - Heba Shaaban
+  - Maria A Sierra
+  - Dominique Thomas
+  - Ben Young
+  - Omar O. Abudayyeh
+  - Josue Alicea
+  - Malay Bhattacharyya
+  - Ran Blekhman
+  - Eduardo Castro-Nallar
+  - "Ana M Ca\xF1as"
+  - Aspassia D Chatziefthimiou
+  - Robert W Crawford
+  - Francesca De Filippis
+  - Youping Deng
+  - Christelle Desnues
+  - Emmanuel Dias-Neto
+  - Marius Dybwad
+  - Eran Elhaik
+  - Danilo Ercolini
+  - Alina Frolova
+  - Dennis Gankin
+  - Jonathan S. Gootenberg
+  - Alexandra B Graf
+  - David C Green
+  - Iman Hajirasouliha
+  - Mark Hernandez
+  - Gregorio Iraola
+  - Soojin Jang
+  - Andre Kahles
+  - Frank J Kelly
+  - Kaymisha Knights
+  - Nikos C Kyrpides
+  - "Pawe\u0142 P \u0141abaj"
+  - Patrick K H Lee
+  - Marcus H Y Leung
+  - Per Ljungdahl
+  - Gabriella Mason-Buck
+  - Ken McGrath
+  - Cem Meydan
+  - Emmanuel F Mongodin
+  - Milton Ozorio Moraes
+  - Niranjan Nagarajan
+  - Marina Nieto-Caballero
+  - Houtan Noushmehr
+  - Manuela Oliveira
+  - Stephan Ossowski
+  - Olayinka O Osuolale
+  - "Orhan \xD6zcan"
+  - David Paez-Espino
+  - Nicolas Rascovan
+  - Hugues Richard
+  - "Gunnar R\xE4tsch"
+  - Lynn M Schriml
+  - Torsten Semmler
+  - Osman U Sezerman
+  - Leming Shi
+  - Tieliu Shi
+  - Le Huu Song
+  - Haruo Suzuki
+  - Denise Syndercombe Court
+  - Scott W Tighe
+  - Xinzhao Tong
+  - Klas I Udekwu
+  - Juan A Ugalde
+  - Brandon Valentine
+  - Dimitar I Vassilev
+  - Elena Vayndorf
+  - Thirumalaisamy P Velavan
+  - Jun Wu
+  - "Mar\xEDa M Zambrano"
+  - Jifeng Zhu
+  - Sibo Zhu
+  - Christopher E Mason
+  publisher: Cold Spring Harbor Laboratory
+  date: '2019-08-05'
+  link: https://doi.org/gkwsjk
+  orcid: 0000-0001-7776-1340
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/s12859-018-2215-1
+  title: 'DiNAMO: highly sensitive DNA motif discovery in high-throughput sequencing
+    data'
+  authors:
+  - Chadi Saad
+  - "Laurent No\xE9"
+  - Hugues Richard
+  - Julie Leclerc
+  - Marie-Pierre Buisine
+  - "H\xE9l\xE8ne Touzet"
+  - Martin Figeac
+  publisher: BMC Bioinformatics
+  date: '2018-06-11'
+  link: https://doi.org/gtjmkm
+  orcid: 0000-0001-7776-1340
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pcbi.1005992
+  title: 'Meet-U: Educating through research immersion'
+  authors:
+  - Nika Abdollahi
+  - Alexandre Albani
+  - Eric Anthony
+  - Agnes Baud
+  - "M\xE9lissa Cardon"
+  - Robert Clerc
+  - Dariusz Czernecki
+  - Romain Conte
+  - Laurent David
+  - Agathe Delaune
+  - Samia Djerroud
+  - Pauline Fourgoux
+  - "Nad\xE8ge Guiglielmoni"
+  - Jeanne Laurentie
+  - Nathalie Lehmann
+  - Camille Lochard
+  - "R\xE9mi Montagne"
+  - Vasiliki Myrodia
+  - Vaitea Opuu
+  - Elise Parey
+  - "L\xE9lia Polit"
+  - "Sylvain Priv\xE9"
+  - "Chlo\xE9 Quignot"
+  - Maria Ruiz-Cuevas
+  - Mariam Sissoko
+  - Nicolas Sompairac
+  - Audrey Vallerix
+  - Violaine Verrecchia
+  - Marc Delarue
+  - "Raphael Gu\xE9rois"
+  - Yann Ponty
+  - Sophie Sacquin-Mora
+  - Alessandra Carbone
+  - Christine Froidevaux
+  - "St\xE9phane Le Crom"
+  - Olivier Lespinet
+  - Martin Weigt
+  - Samer Abboud
+  - Juliana Bernardes
+  - Guillaume Bouvier
+  - "Chlo\xE9 Dequeker"
+  - "Arnaud Ferr\xE9"
+  - Patrick Fuchs
+  - "Ga\xEBlle Lelandais"
+  - Pierre Poulain
+  - Hugues Richard
+  - Hugo Schweke
+  - Elodie Laine
+  - Anne Lopes
+  publisher: PLOS Computational Biology
+  date: '2018-03-15'
+  link: https://doi.org/gfkh4n
+  orcid: 0000-0001-7776-1340
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/nar/gkx1175
+  title: Jointly aligning a group of DNA reads improves accuracy of identifying large
+    deletions
+  authors:
+  - Anish M S Shrestha
+  - Martin C Frith
+  - Kiyoshi Asai
+  - Hugues Richard
+  publisher: Nucleic Acids Research
+  date: '2017-11-22'
+  link: https://doi.org/gtjmkn
+  orcid: 0000-0001-7776-1340
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/s13059-017-1364-2
+  title: "PureCLIP: capturing target-specific protein\u2013RNA interaction footprints\
+    \ from single-nucleotide CLIP-seq data"
+  authors:
+  - Sabrina Krakau
+  - Hugues Richard
+  - Annalisa Marsico
   publisher: Genome Biology
-  date: '2020-05-11'
-  link: https://doi.org/gg2mjh
-  orcid: 0000-0002-4655-3773
+  date: '2017-12-01'
+  link: https://doi.org/gffmw7
+  orcid: 0000-0001-7776-1340
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/146704
+  title: 'PureCLIP: capturing target-specific protein-RNA interaction footprints from
+    single-nucleotide CLIP-seq data'
+  authors:
+  - Sabrina Krakau
+  - Hugues Richard
+  - Annalisa Marsico
+  publisher: Cold Spring Harbor Laboratory
+  date: '2017-06-07'
+  link: https://doi.org/gkv7pg
+  orcid: 0000-0001-7776-1340
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/119891
+  title: Transcripts' evolutionary history and structural dynamics give mechanistic
+    insights into the functional diversity of the JNK family.
+  authors:
+  - Adel Ait-hamlat
+  - Diego Javier Zea
+  - Antoine Labeeuw
+  - Lelia Polit
+  - Hugues Richard
+  - Elodie Laine
+  publisher: Cold Spring Harbor Laboratory
+  date: '2017-03-23'
+  link: https://doi.org/gkwk62
+  orcid: 0000-0001-7776-1340
+  plugin: orcid.py
+  file: orcid.yaml
+- id: hal:hal-01574630
+  title: 'DiNAMO: Exact method for degenerate IUPAC motifs discovery, characterization
+    of sequence-specific errors'
+  date: '2022-06-07'
+  link: https://hal.inria.fr/hal-01574630
+  orcid: 0000-0001-7776-1340
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/s40168-016-0168-z
+  title: The Metagenomics and Metadesign of the Subways and Urban Biomes (MetaSUB)
+    International Consortium inaugural meeting report
+  authors: []
+  publisher: Microbiome
+  date: '2016-06-03'
+  link: https://doi.org/f3r35t
+  orcid: 0000-0001-7776-1340
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/mp.2014.193
+  title: X-exome sequencing of 405 unresolved families identifies seven novel intellectual
+    disability genes
+  authors:
+  - H Hu
+  - S A Haas
+  - J Chelly
+  - H Van Esch
+  - M Raynaud
+  - A P M de Brouwer
+  - S Weinert
+  - G Froyen
+  - S G M Frints
+  - F Laumonnier
+  - T Zemojtel
+  - M I Love
+  - H Richard
+  - A-K Emde
+  - M Bienek
+  - C Jensen
+  - M Hambrock
+  - U Fischer
+  - C Langnick
+  - M Feldkamp
+  - W Wissink-Lindhout
+  - N Lebrun
+  - L Castelnau
+  - J Rucci
+  - R Montjean
+  - O Dorseuil
+  - P Billuart
+  - T Stuhlmann
+  - M Shaw
+  - M A Corbett
+  - A Gardner
+  - S Willis-Owen
+  - C Tan
+  - K L Friend
+  - S Belet
+  - K E P van Roozendaal
+  - M Jimenez-Pocquet
+  - M-P Moizard
+  - N Ronce
+  - R Sun
+  - S O'Keeffe
+  - R Chenna
+  - "A van B\xF6mmel"
+  - "J G\xF6ke"
+  - A Hackett
+  - M Field
+  - L Christie
+  - J Boyle
+  - E Haan
+  - J Nelson
+  - G Turner
+  - G Baynam
+  - G Gillessen-Kaesbach
+  - "U M\xFCller"
+  - D Steinberger
+  - B Budny
+  - M Badura-Stronka
+  - "A Latos-Biele\u0144ska"
+  - L B Ousager
+  - P Wieacker
+  - "G Rodr\xEDguez Criado"
+  - M-L Bondeson
+  - "G Anner\xE9n"
+  - A Dufke
+  - M Cohen
+  - L Van Maldergem
+  - C Vincent-Delorme
+  - B Echenne
+  - B Simon-Bouy
+  - T Kleefstra
+  - M Willemsen
+  - J-P Fryns
+  - K Devriendt
+  - R Ullmann
+  - M Vingron
+  - K Wrogemann
+  - T F Wienker
+  - A Tzschach
+  - H van Bokhoven
+  - J Gecz
+  - T J Jentsch
+  - W Chen
+  - H-H Ropers
+  - V M Kalscheuer
+  publisher: Molecular Psychiatry
+  date: '2015-02-03'
+  link: https://doi.org/f3prsf
+  orcid: 0000-0001-7776-1340
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/bioinformatics/btu730
+  title: 'Ulysses: accurate detection of low-frequency structural variations in large
+    insert-size sequencing libraries'
+  authors:
+  - Alexandre Gillet-Markowska
+  - Hugues Richard
+  - Gilles Fischer
+  - Ingrid Lafontaine
+  publisher: Bioinformatics
+  date: '2014-11-07'
+  link: https://doi.org/f67q9v
+  orcid: 0000-0001-7776-1340
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/bioinformatics/btu440
+  title: 'Fiona: a parallel and automatic strategy for read error correction'
+  authors:
+  - Marcel H. Schulz
+  - David Weese
+  - Manuel Holtgrewe
+  - Viktoria Dimitrova
+  - Sijia Niu
+  - Knut Reinert
+  - Hugues Richard
+  publisher: Bioinformatics
+  date: '2014-08-22'
+  link: https://doi.org/f6kc56
+  orcid: 0000-0001-7776-1340
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/1471-2164-15-698
+  title: The diversity of small non-coding RNAs in the diatom Phaeodactylum tricornutum
+  authors:
+  - Alessandra Rogato
+  - Hugues Richard
+  - Alexis Sarazin
+  - "Bj\xF6rn Voss"
+  - Soizic Cheminant Navarro
+  - "Rapha\xEBl Champeimont"
+  - Lionel Navarro
+  - Alessandra Carbone
+  - Wolfgang R Hess
+  - Angela Falciatore
+  publisher: BMC Genomics
+  date: '2014-08-20'
+  link: https://doi.org/gb3gq8
+  orcid: 0000-0001-7776-1340
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/bioinformatics/btu042
+  title: 'Parseq: reconstruction of microbial transcription landscape from RNA-Seq
+    read counts using state-space models'
+  authors:
+  - Bogdan Mirauta
+  - Pierre Nicolas
+  - Hugues Richard
+  publisher: Bioinformatics
+  date: '2014-01-27'
+  link: https://doi.org/f55ck3
+  orcid: 0000-0001-7776-1340
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/nmeth.2714
+  title: Assessment of transcript reconstruction methods for RNA-seq
+  authors:
+  - Tamara Steijger
+  - Josep F Abril
+  - "P\xE4r G Engstr\xF6m"
+  - Felix Kokocinski
+  - Tim J Hubbard
+  - "Roderic Guig\xF3"
+  - Jennifer Harrow
+  - Paul Bertone
+  publisher: Nature Methods
+  date: '2013-11-03'
+  link: https://doi.org/pt8
+  orcid: 0000-0001-7776-1340
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.copbio.2010.10.003
+  title: Comprehensive identification and quantification of microbial transcriptomes
+    by genome-wide unbiased methods
+  authors:
+  - "Ulrike M\xE4der"
+  - Pierre Nicolas
+  - Hugues Richard
+  - "Philippe Bessi\xE8res"
+  - "St\xE9phane Aymerich"
+  publisher: Current Opinion in Biotechnology
+  date: '2011-02-01'
+  link: https://doi.org/cbvtvx
+  orcid: 0000-0001-7776-1340
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/nature08819
+  title: The genome of a songbird
+  authors:
+  - Wesley C. Warren
+  - David F. Clayton
+  - Hans Ellegren
+  - Arthur P. Arnold
+  - LaDeana W. Hillier
+  - "Axel K\xFCnstner"
+  - Steve Searle
+  - Simon White
+  - Albert J. Vilella
+  - Susan Fairley
+  - Andreas Heger
+  - Lesheng Kong
+  - Chris P. Ponting
+  - Erich D. Jarvis
+  - Claudio V. Mello
+  - Pat Minx
+  - Peter Lovell
+  - Tarciso A. F. Velho
+  - Margaret Ferris
+  - Christopher N. Balakrishnan
+  - Saurabh Sinha
+  - Charles Blatti
+  - Sarah E. London
+  - Yun Li
+  - Ya-Chi Lin
+  - Julia George
+  - Jonathan Sweedler
+  - Bruce Southey
+  - Preethi Gunaratne
+  - Michael Watson
+  - Kiwoong Nam
+  - "Niclas Backstr\xF6m"
+  - Linnea Smeds
+  - Benoit Nabholz
+  - Yuichiro Itoh
+  - Osceola Whitney
+  - Andreas R. Pfenning
+  - Jason Howard
+  - "Martin V\xF6lker"
+  - Bejamin M. Skinner
+  - Darren K. Griffin
+  - Liang Ye
+  - William M. McLaren
+  - Paul Flicek
+  - Victor Quesada
+  - Gloria Velasco
+  - Carlos Lopez-Otin
+  - Xose S. Puente
+  - Tsviya Olender
+  - Doron Lancet
+  - Arian F. A. Smit
+  - Robert Hubley
+  - Miriam K. Konkel
+  - Jerilyn A. Walker
+  - Mark A. Batzer
+  - Wanjun Gu
+  - David D. Pollock
+  - Lin Chen
+  - Ze Cheng
+  - Evan E. Eichler
+  - Jessica Stapley
+  - Jon Slate
+  - Robert Ekblom
+  - Tim Birkhead
+  - Terry Burke
+  - David Burt
+  - Constance Scharff
+  - Iris Adam
+  - Hugues Richard
+  - Marc Sultan
+  - Alexey Soldatov
+  - Hans Lehrach
+  - Scott V. Edwards
+  - Shiaw-Pyng Yang
+  - XiaoChing Li
+  - Tina Graves
+  - Lucinda Fulton
+  - Joanne Nelson
+  - Asif Chinwalla
+  - Shunfeng Hou
+  - Elaine R. Mardis
+  - Richard K. Wilson
+  publisher: Nature
+  date: '2010-04-01'
+  link: https://doi.org/dtpsdw
+  orcid: 0000-0001-7776-1340
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/nar/gkq041
+  title: Prediction of alternative isoforms from exon expression levels in RNA-Seq
+    experiments
+  authors:
+  - Hugues Richard
+  - Marcel H. Schulz
+  - Marc Sultan
+  - "Asja Nu\u0308rnberger"
+  - Sabine Schrinner
+  - Daniela Balzereit
+  - Emilie Dagand
+  - Axel Rasche
+  - Hans Lehrach
+  - Martin Vingron
+  - Stefan A. Haas
+  - Marie-Laure Yaspo
+  publisher: Nucleic Acids Research
+  date: '2010-02-11'
+  link: https://doi.org/c2r4b2
+  orcid: 0000-0001-7776-1340
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s11568-010-9142-1
+  title: 'Erratum to: Mutation screening in 86 known X-linked mental retardation genes
+    by droplet-based multiplex PCR and massive parallel sequencing'
+  authors:
+  - Hao Hu
+  - Klaus Wrogemann
+  - Vera Kalscheuer
+  - Andreas Tzschach
+  - Hugues Richard
+  - Stefan A. Haas
+  - Corinna Menzel
+  - Melanie Bienek
+  - Guy Froyen
+  - Martine Raynaud
+  - Hans Van Bokhoven
+  - Jamel Chelly
+  - Hilger Ropers
+  - Wei Chen
+  publisher: The HUGO Journal
+  date: '2009-12-01'
+  link: https://doi.org/c8fxbv
+  orcid: 0000-0001-7776-1340
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s11568-010-9137-y
+  title: Mutation screening in 86 known X-linked mental retardation genes by droplet-based
+    multiplex PCR and massive parallel sequencing
+  authors:
+  - Hao Hu
+  - Klaus Wrogemann
+  - Vera Kalscheuer
+  - Andreas Tzschach
+  - Hugues Richard
+  - Stefan A. Haas
+  - Corinna Menzel
+  - Melanie Bienek
+  - Guy Froyen
+  - Martine Raynaud
+  - Hans Van Bokhoven
+  - Jamel Chelly
+  - Hilger Ropers
+  - Wei Chen
+  publisher: The HUGO Journal
+  date: '2009-12-01'
+  link: https://doi.org/bb4szf
+  orcid: 0000-0001-7776-1340
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1126/science.1160342
+  title: A Global View of Gene Activity and Alternative Splicing by Deep Sequencing
+    of the Human Transcriptome
+  authors:
+  - Marc Sultan
+  - Marcel H. Schulz
+  - Hugues Richard
+  - Alon Magen
+  - Andreas Klingenhoff
+  - Matthias Scherf
+  - Martin Seifert
+  - Tatjana Borodina
+  - Aleksey Soldatov
+  - Dmitri Parkhomchuk
+  - Dominic Schmidt
+  - Sean O'Keeffe
+  - Stefan Haas
+  - Martin Vingron
+  - Hans Lehrach
+  - Marie-Laure Yaspo
+  publisher: Science
+  date: '2008-08-15'
+  link: https://doi.org/c3558q
+  orcid: 0000-0001-7776-1340
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:16882864
+  title: Identification of programmed translational -1 frameshifting sites in the
+    genome of Saccharomyces cerevisiae.
+  authors:
+  - "Micha\xEBl Bekaert"
+  - Hughes Richard
+  - Bernard Prum
+  - Jean-Pierre Rousset
+  publisher: Genome research
+  date: '2022-05-30'
+  link: http://europepmc.org/abstract/med/16882864
+  orcid: 0000-0001-7776-1340
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/gr.4258005
+  title: Identification of programmed translational -1 frameshifting sites in the
+    genome of <i>Saccharomyces cerevisiae</i>
+  authors:
+  - "Micha\xEBl Bekaert"
+  - Hugues Richard
+  - Bernard Prum
+  - Jean-Pierre Rousset
+  publisher: Genome Research
+  date: '2005-10-01'
+  link: https://doi.org/chzcw4
+  orcid: 0000-0001-7776-1340
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/bioinformatics/bti389
+  title: 'seq++: analyzing biological sequences with a range of Markov-related models'
+  authors:
+  - V. Miele
+  - P.-Y. Bourguignon
+  - D. Robelin
+  - G. Nuel
+  - H. Richard
+  publisher: Bioinformatics
+  date: '2005-03-17'
+  link: https://doi.org/dbx79t
+  orcid: 0000-0001-7776-1340
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/nar/gkg596
+  title: 'SIC: a tool to detect short inverted segments in a biological sequence'
+  authors:
+  - D. Robelin
+  publisher: Nucleic Acids Research
+  date: '2003-07-01'
+  link: https://doi.org/fscn5q
+  orcid: 0000-0001-7776-1340
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/nar/gkg613
+  title: 'SPA: simple web tool to assess statistical significance of DNA patterns'
+  authors:
+  - H. Richard
+  publisher: Nucleic Acids Research
+  date: '2003-07-01'
+  link: https://doi.org/c768gg
+  orcid: 0000-0001-7776-1340
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1089/10665270260518254
+  title: Occurrence Probability of Structured Motifs in Random Sequences
+  authors:
+  - S. Robin
+  - J.-J. Daudin
+  - H. Richard
+  - M.-F. Sagot
+  - S. Schbath
+  publisher: Journal of Computational Biology
+  date: '2002-12-01'
+  link: https://doi.org/dpcth8
+  orcid: 0000-0001-7776-1340
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pcbi.1011379
+  title: 'Refphase: Multi-sample phasing reveals haplotype-specific copy number heterogeneity'
+  authors:
+  - Thomas B. K. Watkins
+  - Emma C. Colliver
+  - Matthew R. Huska
+  - Tom L. Kaufmann
+  - Emilia L. Lim
+  - Cody B. Duncan
+  - Kerstin Haase
+  - Peter Van Loo
+  - Charles Swanton
+  - Nicholas McGranahan
+  - Roland F. Schwarz
+  publisher: PLOS Computational Biology
+  date: '2023-10-23'
+  link: https://doi.org/gtjmkq
+  orcid: 0000-0002-0912-745X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2022.10.13.511885
+  title: 'Refphase: Multi-sample reference phasing reveals haplotype-specific copy
+    number heterogeneity'
+  authors:
+  - Thomas BK Watkins
+  - Emma C Colliver
+  - Mathew R Huska
+  - Tom L Kaufmann
+  - Emilia L Lim
+  - Kerstin Haase
+  - Peter Van Loo
+  - Charles Swanton
+  - Nicholas McGranahan
+  - Roland F Schwarz
+  publisher: Cold Spring Harbor Laboratory
+  date: '2022-10-17'
+  link: https://doi.org/gtjmkr
+  orcid: 0000-0002-0912-745X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41467-021-26870-z
+  title: Spatial and temporal intratumour heterogeneity has potential consequences
+    for single biopsy-based neuroblastoma treatment decisions
+  authors:
+  - Karin Schmelz
+  - Joern Toedling
+  - Matt Huska
+  - Maja C. Cwikla
+  - Louisa-Marie Kruetzfeldt
+  - Jutta Proba
+  - Peter F. Ambros
+  - Inge M. Ambros
+  - "Seng\xFCl Boral"
+  - Marco Lodrini
+  - Celine Y. Chen
+  - Martin Burkert
+  - Dennis Guergen
+  - Annabell Szymansky
+  - Kathy Astrahantseff
+  - Annette Kuenkele
+  - Kerstin Haase
+  - Matthias Fischer
+  - Hedwig E. Deubzer
+  - Falk Hertwig
+  - Patrick Hundsdoerfer
+  - Anton G. Henssen
+  - Roland F. Schwarz
+  - Johannes H. Schulte
+  - Angelika Eggert
+  publisher: Nature Communications
+  date: '2021-11-23'
+  link: https://doi.org/gnr76p
+  orcid: 0000-0002-0912-745X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.chembiol.2018.10.013
+  title: The Anti-amyloid Compound DO1 Decreases Plaque Pathology and Neuroinflammation-Related
+    Expression Changes in 5xFAD Transgenic Mice
+  authors:
+  - Annett Boeddrich
+  - Julius T. Babila
+  - Thomas Wiglenda
+  - Lisa Diez
+  - Manuela Jacob
+  - Wilfried Nietfeld
+  - Matthew R. Huska
+  - Christian Haenig
+  - Nicole Groenke
+  - Alexander Buntru
+  - Eric Blanc
+  - Jochen C. Meier
+  - Elisabetta Vannoni
+  - Christian Erck
+  - Beate Friedrich
+  - Henrik Martens
+  - Nancy Neuendorf
+  - Sigrid Schnoegl
+  - David P. Wolfer
+  - Maarten Loos
+  - Dieter Beule
+  - Miguel A. Andrade-Navarro
+  - Erich E. Wanker
+  publisher: Cell Chemical Biology
+  date: '2019-01-01'
+  link: https://doi.org/gtjmks
+  orcid: 0000-0002-0912-745X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pcbi.1005249
+  title: Improved Prediction of Non-methylated Islands in Vertebrates Highlights Different
+    Characteristic Sequence Patterns
+  authors:
+  - Matthew Huska
+  - Martin Vingron
+  publisher: PLOS Computational Biology
+  date: '2016-12-16'
+  link: https://doi.org/f9hjm9
+  orcid: 0000-0002-0912-745X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:27903902
+  title: Role of the chromatin landscape and sequence in determining cell type-specific
+    genomic glucocorticoid receptor binding and gene regulation.
+  authors:
+  - Michael I Love
+  - Matthew R Huska
+  - Marcel Jurk
+  - "Robert Sch\xF6pflin"
+  - Stephan R Starick
+  - Kevin Schwahn
+  - Samantha B Cooper
+  - Keith R Yamamoto
+  - Morgane Thomas-Chollier
+  - Martin Vingron
+  - Sebastiaan H Meijsing
+  publisher: Nucleic acids research
+  date: '2022-05-25'
+  link: http://europepmc.org/abstract/med/27903902
+  orcid: 0000-0002-0912-745X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.7287/peerj.preprints.2407v1
+  title: Predicting enhancers using a small subset of high confidence examples and
+    co-training
+  authors:
+  - Matthew R Huska
+  - Anna Ramisch
+  - Martin Vingron
+  - Annalisa Marsico
+  publisher: PeerJ
+  date: '2016-09-01'
+  link: https://doi.org/gtjmkt
+  orcid: 0000-0002-0912-745X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.7287/peerj.preprints.2407
+  title: Predicting enhancers using a small subset of high confidence examples and
+    co-training
+  authors:
+  - Matthew R Huska
+  - Anna Ramisch
+  - Martin Vingron
+  - Annalisa Marsico
+  publisher: PeerJ
+  date: '2016-09-01'
+  link: https://doi.org/gtjmkv
+  orcid: 0000-0002-0912-745X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/onc.2015.451
+  title: SPON2, a newly identified target gene of MACC1, drives colorectal cancer
+    metastasis in mice and is prognostic for colorectal cancer patient survival
+  authors:
+  - F Schmid
+  - Q Wang
+  - M R Huska
+  - M A Andrade-Navarro
+  - M Lemm
+  - I Fichtner
+  - M Dahlmann
+  - D Kobelt
+  - W Walther
+  - J Smith
+  - P M Schlag
+  - U Stein
+  publisher: Oncogene
+  date: '2015-12-21'
+  link: https://doi.org/f9cf8b
+  orcid: 0000-0002-0912-745X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/1471-2407-14-64
+  title: Concerted down-regulation of immune-system related genes predicts metastasis
+    in colorectal carcinoma
+  authors:
+  - Marion Fehlker
+  - Matthew R Huska
+  - "Thomas J\xF6ns"
+  - Miguel A Andrade-Navarro
+  - Wolfgang Kemmner
+  publisher: BMC Cancer
+  date: '2014-02-05'
+  link: https://doi.org/f5rfkk
+  orcid: 0000-0002-0912-745X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/gb-2013-14-8-r84
+  title: 'PROmiRNA: a new miRNA promoter recognition method uncovers the complex regulation
+    of intronic miRNAs'
+  authors:
+  - Annalisa Marsico
+  - Matthew R Huska
+  - Julia Lasserre
+  - Haiyang Hu
+  - Dubravka Vucicevic
+  - Anne Musahl
+  - Ulf Orom
+  - Martin Vingron
+  publisher: Genome Biology
+  date: '2013-01-01'
+  link: https://doi.org/gtjmkw
+  orcid: 0000-0002-0912-745X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/ki.2010.169
+  title: The soluble intracellular domain of megalin does not affect renal proximal
+    tubular function in vivo
+  authors:
+  - Annabel Christ
+  - Sara Terryn
+  - Vanessa Schmidt
+  - Erik I. Christensen
+  - Matthew R. Huska
+  - Miguel A. Andrade-Navarro
+  - "Norbert H\xFCbner"
+  - Olivier Devuyst
+  - Annette Hammes
+  - Thomas E. Willnow
+  publisher: Kidney International
+  date: '2010-09-01'
+  link: https://doi.org/fhqfbd
+  orcid: 0000-0002-0912-745X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/ng.463
+  title: DNA methylation protects hematopoietic stem cell multipotency from myeloerythroid
+    restriction
+  authors:
+  - "Ann-Marie Br\xF6ske"
+  - Lena Vockentanz
+  - Shabnam Kharazi
+  - Matthew R Huska
+  - Elena Mancini
+  - Marina Scheller
+  - Christiane Kuhl
+  - Andreas Enns
+  - Marco Prinz
+  - Rudolf Jaenisch
+  - Claus Nerlov
+  - Achim Leutz
+  - Miguel A Andrade-Navarro
+  - Sten Eirik W Jacobsen
+  - Frank Rosenbauer
+  publisher: Nature Genetics
+  date: '2009-10-04'
+  link: https://doi.org/b6f577
+  orcid: 0000-0002-0912-745X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/nar/gkp353
+  title: 'MedlineRanker: flexible ranking of biomedical literature'
+  authors:
+  - Jean-Fred Fontaine
+  - Adriano Barbosa-Silva
+  - Martin Schaefer
+  - Matthew R. Huska
+  - Enrique M. Muro
+  - Miguel A. Andrade-Navarro
+  publisher: Nucleic Acids Research
+  date: '2009-05-07'
+  link: https://doi.org/cjchb9
+  orcid: 0000-0002-0912-745X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pcbi.1000304
+  title: Detection of Alpha-Rod Protein Repeats Using a Neural Network and Application
+    to Huntingtin
+  authors:
+  - Gareth A. Palidwor
+  - Sergey Shcherbinin
+  - Matthew R. Huska
+  - Tamas Rasko
+  - Ulrich Stelzl
+  - Anup Arumughan
+  - Raphaele Foulle
+  - Pablo Porras
+  - Luis Sanchez-Pulido
+  - Erich E. Wanker
+  - Miguel A. Andrade-Navarro
+  publisher: PLoS Computational Biology
+  date: '2009-03-13'
+  link: https://doi.org/cm432f
+  orcid: 0000-0002-0912-745X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/1756-0500-2-39
+  title: 'Recent developments in StemBase: a tool to study gene expression in human
+    and murine stem cells'
+  authors:
+  - Reatha Sandie
+  - Gareth A Palidwor
+  - Matthew R Huska
+  - Christopher J Porter
+  - Paul M Krzyzanowski
+  - Enrique M Muro
+  - Carolina Perez-Iratxeta
+  - Miguel A Andrade-Navarro
+  publisher: BMC Research Notes
+  date: '2009-01-01'
+  link: https://doi.org/cq4xx6
+  orcid: 0000-0002-0912-745X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/bioinformatics/btm489
+  title: 'BiasViz: visualization of amino acid biased regions in protein alignments'
+  authors:
+  - Matthew R. Huska
+  - Henrik Buschmann
+  - Miguel A. Andrade-Navarro
+  publisher: Bioinformatics
+  date: '2007-10-06'
+  link: https://doi.org/cvzprz
+  orcid: 0000-0002-0912-745X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.febslet.2005.02.020
+  title: Study of stem cell function using microarray experiments
+  authors:
+  - Carolina Perez-Iratxeta
+  - Gareth Palidwor
+  - Christopher J. Porter
+  - Neal A. Sanche
+  - Matthew R. Huska
+  - Brian P. Suomela
+  - Enrique M. Muro
+  - Paul M. Krzyzanowski
+  - Evan Hughes
+  - Pearl A. Campbell
+  - Michael A. Rudnicki
+  - Miguel A. Andrade
+  publisher: FEBS Letters
+  date: '2005-02-23'
+  link: https://doi.org/dhx7wj
+  orcid: 0000-0002-0912-745X
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1371/journal.pcbi.1007128
@@ -184,9 +3033,6 @@
   publisher: PLOS Computational Biology
   date: '2020-12-04'
   link: https://doi.org/c7np
-  orcid: 0000-0002-4655-3773
-  plugin: sources.py
-  file: sources.yaml
   type: paper
   description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
     do eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -203,21 +3049,8 @@
   - open science
   - collaboration
   repo: greenelab/meta-review
-- id: doi:10.1101/573782
-  title: Sequential compression of gene expression across dimensionalities and methods
-    reveals no single best method or dimensionality
-  authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2019-03-11'
-  link: https://doi.org/gfxjxf
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.csbj.2020.05.017
   title: Constructing knowledge graphs and their biomedical applications
   authors:
