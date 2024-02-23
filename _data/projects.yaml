@@ -1,47 +1,44 @@
-- title: Cool Dataset
-  subtitle: a subtitle
+- title: Breakfast
   group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
-
-- title: Cool Package
-  subtitle: a subtitle
-  group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
-
-- title: Cool Tutorial
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
-    - publication
-
-- title: Cool Web App
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  image: images/projects/breakfast.png
+  description: Fast detection of putative transmission chains in large (>1 million) sets of SARS-CoV-2 genomic sequences
+  repo: rki-mf1/breakfast
   tags:
     - software
 
-- title: Cool Web Server
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+# - title: Cool Package
+#   subtitle: a subtitle
+#   group: featured
+#   image: images/photo.jpg
+#   link: https://github.com/
+#   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+#   repo: greenelab/lab-website-template
+#   tags:
+#     - resource
+
+- title: POCP-nf
+  image: images/projects/pocp-nf.png
+  description: Nextflow pipeline for the Calculation of the Percentage Of Conserved Proteins following [Qin et al. 2014.](https://www.ncbi.nlm.nih.gov/pubmed/24706738)
+  repo: hoelzer/pocp
   tags:
     - software
+    - nextflow
+    - pipeline
+
+# - title: Cool Web App
+#   subtitle: a subtitle
+#   image: images/photo.jpg
+#   link: https://github.com/
+#   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+#   repo: greenelab/lab-website-template
+#   tags:
+#     - software
+#
+# - title: Cool Web Server
+#   subtitle: a subtitle
+#   image: images/photo.jpg
+#   link: https://github.com/
+#   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+#   repo: greenelab/lab-website-template
+#   tags:
+#     - software
