@@ -55,7 +55,7 @@
   file: sources.yaml
   image: https://github.com/EBI-Metagenomics/emg-viral-pipeline/blob/3708071d71b19e72c71c06dd2c8aa3c5a0eb232c/nextflow/figures/2023-sankey-neto.png
   repo: EBI-Metagenomics/emg-viral-pipeline
-  highlighted: true
+  group: highlighted
 - id: doi:10.1101/2023.08.05.552089
   title: Targeted decontamination of sequencing data with CLEAN
   authors:
@@ -89,7 +89,7 @@
   plugin: sources.py
   file: sources.yaml
   image: https://www.biorxiv.org/content/biorxiv/early/2023/06/02/2023.06.02.543047/F1.large.jpg
-  highlighted: true
+  group: highlighted
 - id: doi:10.1101/2023.05.05.539552
   title: 'Pangenome calculation beyond the species level using RIBAP: A comprehensive
     bacterial core genome annotation pipeline based on Roary and pairwise ILPs'
