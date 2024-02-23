@@ -36,11 +36,13 @@ layout: default
   blog/?search={{ page.name }}
 {%- endcapture %}
 
+<!-- Currently broken. Fix this when time permits
 {% include float.html clear=true %}
 {% capture content %}
 {% include list.html data="citations" component="citation" filter="page: {{ page.name }}" %}
 {% endcapture %}
 {% include grid.html content=content %}
+-->
 
 <p class="center">
   <a href="{{ search | relative_url }}">
