@@ -1,9 +1,9 @@
 ---
 ---
 
-# mf1-innovation's Website
+# MF1 Research and Innovation
 
-An engaging 1-3 sentence description of your lab.
+The MF1 Innovation and Research team is dedicated to advancing bioinformatics methods for health research. Our main goal is the development of novel genome-based solutions and analytical methods. By combining our research with powerful sequencing technologies, we seek optimized approaches to answer complex scientific questions in the field of public health.
 
 {% include section.html %}
 
