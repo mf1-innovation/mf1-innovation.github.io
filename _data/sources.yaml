@@ -1,23 +1,39 @@
-- id: doi:10.1371/journal.pcbi.1007128
-  type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  date: 2020-12-4
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  buttons:
-    - type: manubot
-      link: https://greenelab.github.io/meta-review/
-    - type: source
-      text: Manuscript Source
-      link: https://github.com/greenelab/meta-review
-    - type: website
-      link: http://manubot.org/
-  tags:
-    - open science
-    - collaboration
-  repo: greenelab/meta-review
+# This file is for manually adding single citations. For now I suggest:
+# 1) using meta-citations in the orcid.yaml file to pull in all of our citations
+#    automatically
+# 2) use this file for "Highlighted" articles only. It should not create
+#    duplicates when the publications are combined with the orcid ones above,
+#    since citations are supposed to be deduped by DOI (I think)
 
-- id: doi:10.1016/j.csbj.2020.05.017
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
+# Virify
+- id: doi:10.1371/journal.pcbi.1011422
+  image: https://github.com/EBI-Metagenomics/emg-viral-pipeline/blob/3708071d71b19e72c71c06dd2c8aa3c5a0eb232c/nextflow/figures/2023-sankey-neto.png
+  repo: EBI-Metagenomics/emg-viral-pipeline
 
-- id: doi:10.7554/eLife.32822
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+# Wastewater reference bias preprint
+- id: doi:10.1101/2023.06.02.543047
+  image: https://www.biorxiv.org/content/biorxiv/early/2023/06/02/2023.06.02.543047/F1.large.jpg
+
+# Complex example
+#- id: doi:10.1371/journal.pcbi.1007128
+#  type: paper
+#  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+#  date: 2020-12-4
+#  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
+#  buttons:
+#    - type: manubot
+#      link: https://greenelab.github.io/meta-review/
+#    - type: source
+#      text: Manuscript Source
+#      link: https://github.com/greenelab/meta-review
+#    - type: website
+#      link: http://manubot.org/
+#  tags:
+#    - open science
+#    - collaboration
+#  repo: greenelab/meta-review
+#
+# Simple example
+#- id: doi:10.1016/j.csbj.2020.05.017
+#  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
+
