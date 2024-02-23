@@ -7,7 +7,7 @@
 
 # Virify
 - id: doi:10.1371/journal.pcbi.1011422
-  image: https://github.com/EBI-Metagenomics/emg-viral-pipeline/blob/3708071d71b19e72c71c06dd2c8aa3c5a0eb232c/nextflow/figures/2023-sankey-neto.png
+  image: images/research/virify.png
   repo: EBI-Metagenomics/emg-viral-pipeline
   group: highlighted
 

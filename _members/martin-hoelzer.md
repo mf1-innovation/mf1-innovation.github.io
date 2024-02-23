@@ -1,6 +1,6 @@
 ---
 name: Martin Hölzer
-image: images/martin-hoelzer.jpg
+image: images/members/martin-hoelzer.jpg
 role: team-lead
 aliases:
   - Martin Hoelzer
