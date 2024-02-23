@@ -14,6 +14,7 @@
   date: '2023-01-01'
   link: https://doi.org/gtjmjb
   orcid: 0000-0001-7090-8717
+  member: martin-hoelzer
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.12688/f1000research.136683.1
@@ -30,6 +31,7 @@
   date: '2023-09-01'
   link: https://doi.org/gtjmjc
   orcid: 0000-0001-7090-8717
+  member: martin-hoelzer
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1371/journal.pcbi.1011422
@@ -48,8 +50,11 @@
   date: '2023-08-28'
   link: https://doi.org/gs7gvv
   orcid: 0000-0001-7090-8717
-  plugin: orcid.py
-  file: orcid.yaml
+  member: martin-hoelzer
+  plugin: sources.py
+  file: sources.yaml
+  image: https://github.com/EBI-Metagenomics/emg-viral-pipeline/blob/3708071d71b19e72c71c06dd2c8aa3c5a0eb232c/nextflow/figures/2023-sankey-neto.png
+  repo: EBI-Metagenomics/emg-viral-pipeline
 - id: doi:10.1101/2023.08.05.552089
   title: Targeted decontamination of sequencing data with CLEAN
   authors:
@@ -62,6 +67,7 @@
   date: '2023-08-06'
   link: https://doi.org/gtjmjd
   orcid: 0000-0001-7090-8717
+  member: martin-hoelzer
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1101/2023.06.02.543047
@@ -78,8 +84,10 @@
   date: '2023-06-02'
   link: https://doi.org/gtjmjf
   orcid: 0000-0001-7090-8717
-  plugin: orcid.py
-  file: orcid.yaml
+  member: martin-hoelzer
+  plugin: sources.py
+  file: sources.yaml
+  image: https://www.biorxiv.org/content/biorxiv/early/2023/06/02/2023.06.02.543047/F1.large.jpg
 - id: doi:10.1101/2023.05.05.539552
   title: 'Pangenome calculation beyond the species level using RIBAP: A comprehensive
     bacterial core genome annotation pipeline based on Roary and pairwise ILPs'
@@ -92,6 +100,7 @@
   date: '2023-05-07'
   link: https://doi.org/gtjmjg
   orcid: 0000-0001-7090-8717
+  member: martin-hoelzer
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1101/2023.04.13.536562
@@ -110,6 +119,7 @@
   date: '2023-04-13'
   link: https://doi.org/gtjmjh
   orcid: 0000-0001-7090-8717
+  member: martin-hoelzer
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1101/2023.03.29.534691
@@ -125,6 +135,7 @@
   date: '2023-03-30'
   link: https://doi.org/gtjmjj
   orcid: 0000-0001-7090-8717
+  member: martin-hoelzer
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.46471/gigabyte.75
@@ -141,6 +152,7 @@
   date: '2023-01-25'
   link: https://doi.org/gtjmjk
   orcid: 0000-0001-7090-8717
+  member: martin-hoelzer
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1093/gigascience/giac110
@@ -158,6 +170,7 @@
   date: '2022-01-01'
   link: https://doi.org/gsxcmw
   orcid: 0000-0001-7090-8717
+  member: martin-hoelzer
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1093/bioinformatics/btac411
@@ -186,6 +199,7 @@
   date: '2022-07-07'
   link: https://doi.org/gtjmjm
   orcid: 0000-0001-7090-8717
+  member: martin-hoelzer
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1101/2022.08.22.504484
@@ -204,6 +218,7 @@
   date: '2022-08-22'
   link: https://doi.org/grcttn
   orcid: 0000-0001-7090-8717
+  member: martin-hoelzer
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.3390/jof8040323
@@ -220,6 +235,7 @@
   date: '2022-03-22'
   link: https://doi.org/gqvvg6
   orcid: 0000-0001-7090-8717
+  member: martin-hoelzer
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.3390/v14010087
@@ -237,6 +253,7 @@
   date: '2022-01-04'
   link: https://doi.org/gtjmjn
   orcid: 0000-0001-7090-8717
+  member: martin-hoelzer
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1099/mgen.0.000741
@@ -260,6 +277,7 @@
   date: '2021-12-24'
   link: https://doi.org/gq5gt8
   orcid: 0000-0001-7090-8717
+  member: martin-hoelzer
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1038/s41564-021-01011-w
@@ -305,6 +323,7 @@
   date: '2021-12-24'
   link: https://doi.org/gqm76x
   orcid: 0000-0001-7090-8717
+  member: martin-hoelzer
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1101/2021.10.29.466389
@@ -323,6 +342,7 @@
   date: '2021-11-01'
   link: https://doi.org/gtjmjp
   orcid: 0000-0001-7090-8717
+  member: martin-hoelzer
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1101/2021.07.28.454184
@@ -342,6 +362,7 @@
   date: '2021-07-29'
   link: https://doi.org/gtjmjq
   orcid: 0000-0001-7090-8717
+  member: martin-hoelzer
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/j.syapm.2021.126200
@@ -370,6 +391,7 @@
   date: '2021-07-01'
   link: https://doi.org/grkfqm
   orcid: 0000-0001-7090-8717
+  member: martin-hoelzer
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.3390/v13081491
@@ -390,6 +412,7 @@
   date: '2021-07-29'
   link: https://doi.org/gtjmjr
   orcid: 0000-0001-7776-1340
+  member: hugues-richard
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1101/2021.05.07.443089
@@ -407,6 +430,7 @@
   date: '2021-05-07'
   link: https://doi.org/gtjmjs
   orcid: 0000-0001-7090-8717
+  member: martin-hoelzer
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1371/journal.pcbi.1008716
@@ -423,6 +447,7 @@
   date: '2021-02-09'
   link: https://doi.org/gh65cq
   orcid: 0000-0001-7090-8717
+  member: martin-hoelzer
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1111/jpy.13083
@@ -440,6 +465,7 @@
   date: '2020-11-22'
   link: https://doi.org/gtjmjt
   orcid: 0000-0001-7090-8717
+  member: martin-hoelzer
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.3390/cancers13030476
@@ -462,6 +488,7 @@
   date: '2021-01-26'
   link: https://doi.org/gtjmjv
   orcid: 0000-0001-7090-8717
+  member: martin-hoelzer
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.3390/cells10010080
@@ -477,6 +504,7 @@
   date: '2021-01-06'
   link: https://doi.org/gtjmjw
   orcid: 0000-0001-7090-8717
+  member: martin-hoelzer
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1111/1755-0998.13268
@@ -487,6 +515,7 @@
   date: '2020-10-29'
   link: https://doi.org/gtjmjx
   orcid: 0000-0001-7090-8717
+  member: martin-hoelzer
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.3390/genes11121487
@@ -499,6 +528,7 @@
   date: '2020-12-10'
   link: https://doi.org/gtjmjz
   orcid: 0000-0001-7090-8717
+  member: martin-hoelzer
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.3390/pathogens9110899
@@ -519,6 +549,7 @@
   date: '2020-10-28'
   link: https://doi.org/gp46pg
   orcid: 0000-0001-7090-8717
+  member: martin-hoelzer
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1111/1462-2920.15186
@@ -535,6 +566,7 @@
   date: '2020-08-20'
   link: https://doi.org/gg7mvm
   orcid: 0000-0001-7090-8717
+  member: martin-hoelzer
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1101/2020.07.24.219899
@@ -552,6 +584,7 @@
   date: '2020-07-25'
   link: https://doi.org/gtjmj2
   orcid: 0000-0001-7090-8717
+  member: martin-hoelzer
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1101/2020.05.18.102731
@@ -564,6 +597,7 @@
   date: '2020-05-20'
   link: https://doi.org/gsxcw9
   orcid: 0000-0001-7090-8717
+  member: martin-hoelzer
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1101/2020.05.12.090019
@@ -579,6 +613,7 @@
   date: '2020-05-13'
   link: https://doi.org/gtjmj3
   orcid: 0000-0001-7090-8717
+  member: martin-hoelzer
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1101/2020.02.08.939843
@@ -595,6 +630,7 @@
   date: '2020-02-08'
   link: https://doi.org/gkwvqq
   orcid: 0000-0001-7090-8717
+  member: martin-hoelzer
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1101/2019.12.18.880807
@@ -611,6 +647,7 @@
   date: '2019-12-19'
   link: https://doi.org/gkwctb
   orcid: 0000-0001-7090-8717
+  member: martin-hoelzer
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1101/855262
@@ -624,6 +661,7 @@
   date: '2019-11-25'
   link: https://doi.org/gkwh8h
   orcid: 0000-0001-7090-8717
+  member: martin-hoelzer
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1101/483693
@@ -641,6 +679,7 @@
   date: '2018-11-30'
   link: https://doi.org/gf3s97
   orcid: 0000-0001-7090-8717
+  member: martin-hoelzer
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1101/738526
@@ -662,6 +701,7 @@
   date: '2019-08-19'
   link: https://doi.org/gkxbt8
   orcid: 0000-0001-7090-8717
+  member: martin-hoelzer
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/j.isci.2019.08.016
@@ -679,6 +719,7 @@
   date: '2019-09-01'
   link: https://doi.org/ggrdm3
   orcid: 0000-0001-7090-8717
+  member: martin-hoelzer
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/j.syapm.2019.06.002
@@ -699,6 +740,7 @@
   date: '2019-09-01'
   link: https://doi.org/gmsbkw
   orcid: 0000-0001-7090-8717
+  member: martin-hoelzer
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.3390/v11060484
@@ -716,6 +758,7 @@
   date: '2019-05-28'
   link: https://doi.org/gtjmj4
   orcid: 0000-0001-7090-8717
+  member: martin-hoelzer
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.3390/v11050449
@@ -735,6 +778,7 @@
   date: '2019-05-16'
   link: https://doi.org/gtjmj5
   orcid: 0000-0001-7090-8717
+  member: martin-hoelzer
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1093/gigascience/giz039
@@ -747,6 +791,7 @@
   date: '2019-05-01'
   link: https://doi.org/ghjvpr
   orcid: 0000-0001-7090-8717
+  member: martin-hoelzer
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1084/jem.20181505
@@ -779,6 +824,7 @@
   date: '2018-12-07'
   link: https://doi.org/gftqwv
   orcid: 0000-0001-7090-8717
+  member: martin-hoelzer
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/j.virusres.2018.11.005
@@ -793,6 +839,7 @@
   date: '2019-01-01'
   link: https://doi.org/gtjmj6
   orcid: 0000-0001-7090-8717
+  member: martin-hoelzer
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1101/433078
@@ -805,6 +852,7 @@
   date: '2018-10-03'
   link: https://doi.org/gkt7gj
   orcid: 0000-0001-7090-8717
+  member: martin-hoelzer
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1128/genomea.00870-17
@@ -821,6 +869,7 @@
   date: '2017-08-24'
   link: https://doi.org/gtjmj7
   orcid: 0000-0001-7090-8717
+  member: martin-hoelzer
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1128/jvi.00361-17
@@ -842,6 +891,7 @@
   date: '2017-08-01'
   link: https://doi.org/gtjmj8
   orcid: 0000-0001-7090-8717
+  member: martin-hoelzer
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/j.vetmic.2017.01.026
@@ -856,6 +906,7 @@
   date: '2017-03-01'
   link: https://doi.org/f9z86k
   orcid: 0000-0001-7090-8717
+  member: martin-hoelzer
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1038/srep40599
@@ -877,6 +928,7 @@
   date: '2017-01-17'
   link: https://doi.org/f9m7kx
   orcid: 0000-0001-7090-8717
+  member: martin-hoelzer
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1038/srep40598
@@ -899,6 +951,7 @@
   date: '2017-01-17'
   link: https://doi.org/gtjmj9
   orcid: 0000-0001-7090-8717
+  member: martin-hoelzer
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/bs.aivir.2017.08.004
@@ -912,6 +965,7 @@
   date: '2017-01-01'
   link: https://doi.org/ggd46h
   orcid: 0000-0001-7090-8717
+  member: martin-hoelzer
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1038/srep34589
@@ -961,6 +1015,7 @@
   date: '2016-10-07'
   link: https://doi.org/gtjmkb
   orcid: 0000-0001-7090-8717
+  member: martin-hoelzer
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1128/genomea.00708-16
@@ -979,6 +1034,7 @@
   date: '2016-08-25'
   link: https://doi.org/gkdb5h
   orcid: 0000-0001-7090-8717
+  member: martin-hoelzer
   plugin: orcid.py
   file: orcid.yaml
 - id: pmc:PMC4607514
@@ -998,6 +1054,7 @@
   date: '2017-10-24'
   link: http://europepmc.org/abstract/med/26384038
   orcid: 0000-0001-7090-8717
+  member: martin-hoelzer
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1093/nar/gkv746
@@ -1018,6 +1075,7 @@
   date: '2015-07-30'
   link: https://doi.org/f7sxdz
   orcid: 0000-0001-7090-8717
+  member: martin-hoelzer
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.20944/preprints202005.0376.v1
@@ -1083,6 +1141,7 @@
   date: '2020-05-23'
   link: https://doi.org/gmg9sz
   orcid: 0000-0001-7090-8717
+  member: martin-hoelzer
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1101/2024.01.09.574630
@@ -1097,6 +1156,7 @@
   date: '2024-01-09'
   link: https://doi.org/gtjmkc
   orcid: 0000-0001-7776-1340
+  member: hugues-richard
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1111/nph.19429
@@ -1114,6 +1174,7 @@
   date: '2023-12-03'
   link: https://doi.org/gtjmkd
   orcid: 0000-0001-7776-1340
+  member: hugues-richard
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1186/s40168-023-01670-3
@@ -1130,6 +1191,7 @@
   date: '2023-11-06'
   link: https://doi.org/gtjmkf
   orcid: 0000-0001-7776-1340
+  member: hugues-richard
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/j.isci.2023.108057
@@ -1145,6 +1207,7 @@
   date: '2023-11-01'
   link: https://doi.org/gtjmkg
   orcid: 0000-0001-7776-1340
+  member: hugues-richard
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1101/2023.04.29.538821
@@ -1159,6 +1222,7 @@
   date: '2023-04-30'
   link: https://doi.org/gtjmkh
   orcid: 0000-0001-7776-1340
+  member: hugues-richard
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1093/bioinformatics/btac105
@@ -1171,6 +1235,7 @@
   date: '2022-02-21'
   link: https://doi.org/gtjmkj
   orcid: 0000-0001-7776-1340
+  member: hugues-richard
   plugin: orcid.py
   file: orcid.yaml
 - id: hal:tel-03636135
@@ -1178,6 +1243,7 @@
   date: '2022-06-07'
   link: https://hal.archives-ouvertes.fr/tel-03636135
   orcid: 0000-0001-7776-1340
+  member: hugues-richard
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1099/mgen.0.000623
@@ -1199,6 +1265,7 @@
   date: '2021-09-09'
   link: https://doi.org/gmqkwx
   orcid: 0000-0001-7776-1340
+  member: hugues-richard
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1101/gr.274696.120
@@ -1214,6 +1281,7 @@
   date: '2021-06-15'
   link: https://doi.org/gwxg
   orcid: 0000-0001-7776-1340
+  member: hugues-richard
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/j.cell.2021.05.002
@@ -1902,6 +1970,7 @@
   date: '2021-06-01'
   link: https://doi.org/gfgb
   orcid: 0000-0001-7776-1340
+  member: hugues-richard
   plugin: orcid.py
   file: orcid.yaml
 - id: hal:hal-03274456
@@ -1911,6 +1980,7 @@
   date: '2022-06-07'
   link: https://hal.sorbonne-universite.fr/hal-03274456
   orcid: 0000-0001-7776-1340
+  member: hugues-richard
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1101/2020.11.14.382820
@@ -1926,6 +1996,7 @@
   date: '2020-11-15'
   link: https://doi.org/ghn3f3
   orcid: 0000-0001-7776-1340
+  member: hugues-richard
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1093/bioinformatics/btaa272
@@ -1940,6 +2011,7 @@
   date: '2020-04-24'
   link: https://doi.org/gtjmkk
   orcid: 0000-0001-7776-1340
+  member: hugues-richard
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/j.jmb.2020.01.032
@@ -1956,6 +2028,7 @@
   date: '2020-03-01'
   link: https://doi.org/gwxh
   orcid: 0000-0001-7776-1340
+  member: hugues-richard
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1101/724526
@@ -2062,6 +2135,7 @@
   date: '2019-08-05'
   link: https://doi.org/gkwsjk
   orcid: 0000-0001-7776-1340
+  member: hugues-richard
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1186/s12859-018-2215-1
@@ -2079,6 +2153,7 @@
   date: '2018-06-11'
   link: https://doi.org/gtjmkm
   orcid: 0000-0001-7776-1340
+  member: hugues-richard
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1371/journal.pcbi.1005992
@@ -2137,6 +2212,7 @@
   date: '2018-03-15'
   link: https://doi.org/gfkh4n
   orcid: 0000-0001-7776-1340
+  member: hugues-richard
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1093/nar/gkx1175
@@ -2151,6 +2227,7 @@
   date: '2017-11-22'
   link: https://doi.org/gtjmkn
   orcid: 0000-0001-7776-1340
+  member: hugues-richard
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1186/s13059-017-1364-2
@@ -2164,6 +2241,7 @@
   date: '2017-12-01'
   link: https://doi.org/gffmw7
   orcid: 0000-0001-7776-1340
+  member: hugues-richard
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1101/146704
@@ -2177,6 +2255,7 @@
   date: '2017-06-07'
   link: https://doi.org/gkv7pg
   orcid: 0000-0001-7776-1340
+  member: hugues-richard
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1101/119891
@@ -2193,6 +2272,7 @@
   date: '2017-03-23'
   link: https://doi.org/gkwk62
   orcid: 0000-0001-7776-1340
+  member: hugues-richard
   plugin: orcid.py
   file: orcid.yaml
 - id: hal:hal-01574630
@@ -2201,6 +2281,7 @@
   date: '2022-06-07'
   link: https://hal.inria.fr/hal-01574630
   orcid: 0000-0001-7776-1340
+  member: hugues-richard
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1186/s40168-016-0168-z
@@ -2211,6 +2292,7 @@
   date: '2016-06-03'
   link: https://doi.org/f3r35t
   orcid: 0000-0001-7776-1340
+  member: hugues-richard
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1038/mp.2014.193
@@ -2305,6 +2387,7 @@
   date: '2015-02-03'
   link: https://doi.org/f3prsf
   orcid: 0000-0001-7776-1340
+  member: hugues-richard
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1093/bioinformatics/btu730
@@ -2319,6 +2402,7 @@
   date: '2014-11-07'
   link: https://doi.org/f67q9v
   orcid: 0000-0001-7776-1340
+  member: hugues-richard
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1093/bioinformatics/btu440
@@ -2335,6 +2419,7 @@
   date: '2014-08-22'
   link: https://doi.org/f6kc56
   orcid: 0000-0001-7776-1340
+  member: hugues-richard
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1186/1471-2164-15-698
@@ -2354,6 +2439,7 @@
   date: '2014-08-20'
   link: https://doi.org/gb3gq8
   orcid: 0000-0001-7776-1340
+  member: hugues-richard
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1093/bioinformatics/btu042
@@ -2367,6 +2453,7 @@
   date: '2014-01-27'
   link: https://doi.org/f55ck3
   orcid: 0000-0001-7776-1340
+  member: hugues-richard
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1038/nmeth.2714
@@ -2384,6 +2471,7 @@
   date: '2013-11-03'
   link: https://doi.org/pt8
   orcid: 0000-0001-7776-1340
+  member: hugues-richard
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/j.copbio.2010.10.003
@@ -2399,6 +2487,7 @@
   date: '2011-02-01'
   link: https://doi.org/cbvtvx
   orcid: 0000-0001-7776-1340
+  member: hugues-richard
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1038/nature08819
@@ -2490,6 +2579,7 @@
   date: '2010-04-01'
   link: https://doi.org/dtpsdw
   orcid: 0000-0001-7776-1340
+  member: hugues-richard
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1093/nar/gkq041
@@ -2512,6 +2602,7 @@
   date: '2010-02-11'
   link: https://doi.org/c2r4b2
   orcid: 0000-0001-7776-1340
+  member: hugues-richard
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1007/s11568-010-9142-1
@@ -2536,6 +2627,7 @@
   date: '2009-12-01'
   link: https://doi.org/c8fxbv
   orcid: 0000-0001-7776-1340
+  member: hugues-richard
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1007/s11568-010-9137-y
@@ -2560,6 +2652,7 @@
   date: '2009-12-01'
   link: https://doi.org/bb4szf
   orcid: 0000-0001-7776-1340
+  member: hugues-richard
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1126/science.1160342
@@ -2586,6 +2679,7 @@
   date: '2008-08-15'
   link: https://doi.org/c3558q
   orcid: 0000-0001-7776-1340
+  member: hugues-richard
   plugin: orcid.py
   file: orcid.yaml
 - id: pmid:16882864
@@ -2600,6 +2694,7 @@
   date: '2022-05-30'
   link: http://europepmc.org/abstract/med/16882864
   orcid: 0000-0001-7776-1340
+  member: hugues-richard
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1101/gr.4258005
@@ -2614,6 +2709,7 @@
   date: '2005-10-01'
   link: https://doi.org/chzcw4
   orcid: 0000-0001-7776-1340
+  member: hugues-richard
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1093/bioinformatics/bti389
@@ -2628,6 +2724,7 @@
   date: '2005-03-17'
   link: https://doi.org/dbx79t
   orcid: 0000-0001-7776-1340
+  member: hugues-richard
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1093/nar/gkg596
@@ -2638,6 +2735,7 @@
   date: '2003-07-01'
   link: https://doi.org/fscn5q
   orcid: 0000-0001-7776-1340
+  member: hugues-richard
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1093/nar/gkg613
@@ -2648,6 +2746,7 @@
   date: '2003-07-01'
   link: https://doi.org/c768gg
   orcid: 0000-0001-7776-1340
+  member: hugues-richard
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1089/10665270260518254
@@ -2662,6 +2761,7 @@
   date: '2002-12-01'
   link: https://doi.org/dpcth8
   orcid: 0000-0001-7776-1340
+  member: hugues-richard
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1371/journal.pcbi.1011379
@@ -2682,6 +2782,7 @@
   date: '2023-10-23'
   link: https://doi.org/gtjmkq
   orcid: 0000-0002-0912-745X
+  member: matt-huska
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1101/2022.10.13.511885
@@ -2702,6 +2803,7 @@
   date: '2022-10-17'
   link: https://doi.org/gtjmkr
   orcid: 0000-0002-0912-745X
+  member: matt-huska
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1038/s41467-021-26870-z
@@ -2737,6 +2839,7 @@
   date: '2021-11-23'
   link: https://doi.org/gnr76p
   orcid: 0000-0002-0912-745X
+  member: matt-huska
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/j.chembiol.2018.10.013
@@ -2770,6 +2873,7 @@
   date: '2019-01-01'
   link: https://doi.org/gtjmks
   orcid: 0000-0002-0912-745X
+  member: matt-huska
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1371/journal.pcbi.1005249
@@ -2782,6 +2886,7 @@
   date: '2016-12-16'
   link: https://doi.org/f9hjm9
   orcid: 0000-0002-0912-745X
+  member: matt-huska
   plugin: orcid.py
   file: orcid.yaml
 - id: pmid:27903902
@@ -2803,6 +2908,7 @@
   date: '2022-05-25'
   link: http://europepmc.org/abstract/med/27903902
   orcid: 0000-0002-0912-745X
+  member: matt-huska
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.7287/peerj.preprints.2407v1
@@ -2817,6 +2923,7 @@
   date: '2016-09-01'
   link: https://doi.org/gtjmkt
   orcid: 0000-0002-0912-745X
+  member: matt-huska
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.7287/peerj.preprints.2407
@@ -2831,6 +2938,7 @@
   date: '2016-09-01'
   link: https://doi.org/gtjmkv
   orcid: 0000-0002-0912-745X
+  member: matt-huska
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1038/onc.2015.451
@@ -2853,6 +2961,7 @@
   date: '2015-12-21'
   link: https://doi.org/f9cf8b
   orcid: 0000-0002-0912-745X
+  member: matt-huska
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1186/1471-2407-14-64
@@ -2868,6 +2977,7 @@
   date: '2014-02-05'
   link: https://doi.org/f5rfkk
   orcid: 0000-0002-0912-745X
+  member: matt-huska
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1186/gb-2013-14-8-r84
@@ -2886,6 +2996,7 @@
   date: '2013-01-01'
   link: https://doi.org/gtjmkw
   orcid: 0000-0002-0912-745X
+  member: matt-huska
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1038/ki.2010.169
@@ -2906,6 +3017,7 @@
   date: '2010-09-01'
   link: https://doi.org/fhqfbd
   orcid: 0000-0002-0912-745X
+  member: matt-huska
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1038/ng.463
@@ -2931,6 +3043,7 @@
   date: '2009-10-04'
   link: https://doi.org/b6f577
   orcid: 0000-0002-0912-745X
+  member: matt-huska
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1093/nar/gkp353
@@ -2946,6 +3059,7 @@
   date: '2009-05-07'
   link: https://doi.org/cjchb9
   orcid: 0000-0002-0912-745X
+  member: matt-huska
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1371/journal.pcbi.1000304
@@ -2967,6 +3081,7 @@
   date: '2009-03-13'
   link: https://doi.org/cm432f
   orcid: 0000-0002-0912-745X
+  member: matt-huska
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1186/1756-0500-2-39
@@ -2985,6 +3100,7 @@
   date: '2009-01-01'
   link: https://doi.org/cq4xx6
   orcid: 0000-0002-0912-745X
+  member: matt-huska
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1093/bioinformatics/btm489
@@ -2997,6 +3113,7 @@
   date: '2007-10-06'
   link: https://doi.org/cvzprz
   orcid: 0000-0002-0912-745X
+  member: matt-huska
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/j.febslet.2005.02.020
@@ -3018,63 +3135,6 @@
   date: '2005-02-23'
   link: https://doi.org/dhx7wj
   orcid: 0000-0002-0912-745X
+  member: matt-huska
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1371/journal.pcbi.1007128
-  title: Open collaborative writing with Manubot
-  authors:
-  - Daniel S. Himmelstein
-  - Vincent Rubinetti
-  - David R. Slochower
-  - Dongbo Hu
-  - Venkat S. Malladi
-  - Casey S. Greene
-  - Anthony Gitter
-  publisher: PLOS Computational Biology
-  date: '2020-12-04'
-  link: https://doi.org/c7np
-  type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
-    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  buttons:
-  - type: manubot
-    link: https://greenelab.github.io/meta-review/
-  - type: source
-    text: Manuscript Source
-    link: https://github.com/greenelab/meta-review
-  - type: website
-    link: http://manubot.org/
-  tags:
-  - open science
-  - collaboration
-  repo: greenelab/meta-review
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1016/j.csbj.2020.05.017
-  title: Constructing knowledge graphs and their biomedical applications
-  authors:
-  - David N. Nicholson
-  - Casey S. Greene
-  publisher: Computational and Structural Biotechnology Journal
-  date: '2020-01-01'
-  link: https://doi.org/gg7m48
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.7554/eLife.32822
-  title: Sci-Hub provides access to nearly all scholarly literature
-  authors:
-  - Daniel S Himmelstein
-  - Ariel Rodriguez Romero
-  - Jacob G Levernier
-  - Thomas Anthony Munro
-  - Stephen Reid McLaughlin
-  - Bastian Greshake Tzovaras
-  - Casey S Greene
-  publisher: eLife
-  date: '2018-03-01'
-  link: https://doi.org/ckcj
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
-  plugin: sources.py
-  file: sources.yaml
