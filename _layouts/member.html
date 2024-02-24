@@ -40,13 +40,11 @@ layout: default
 </p>
 -->
 
-## All papers under Casey's ORCID:
-
 {% capture publications %}
-  {% include list.html data='citations' component='citation' filters="member: {{ page.member }}" %}
+  {% include list.html data='citations' component='citation' %}
 {% endcapture %}
 
-{% include grid.html content=content %}
+{% include grid.html content=publications %}
 
 {% capture search -%}
   blog/?search={{ page.name }}
