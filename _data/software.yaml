@@ -1,11 +1,9 @@
 - title: Breakfast
   group: featured
-  image: images/projects/breakfast.png
+  image: images/software/breakfast.png
   link: https://github.com/rki-mf1/breakfast
   description: Fast detection of putative transmission chains in large (>1 million) sets of SARS-CoV-2 genomic sequences
   repo: rki-mf1/breakfast
-  tags:
-    - software
 
 # - title: Cool Package
 #   subtitle: a subtitle
@@ -18,12 +16,11 @@
 #     - resource
 
 - title: POCP-nf
-  image: images/projects/pocp-nf.png
+  image: images/software/pocp-nf.png
   link: https://github.com/hoelzer/pocp
   description: Nextflow pipeline for the Calculation of the Percentage Of Conserved Proteins following [Qin et al. 2014.](https://www.ncbi.nlm.nih.gov/pubmed/24706738)
   repo: hoelzer/pocp
   tags:
-    - software
     - nextflow
     - pipeline
 
