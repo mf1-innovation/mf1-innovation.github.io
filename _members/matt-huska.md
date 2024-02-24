@@ -1,5 +1,6 @@
 ---
 name: Matt Huska
+member: matt-huska
 image: images/members/matt-huska.jpg
 role: senior-scientist
 aliases:

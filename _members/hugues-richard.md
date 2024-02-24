@@ -1,5 +1,6 @@
 ---
 name: Hugues Richard
+member: hugues-richard
 image: images/members/hugues-richard.jpg
 role: senior-scientist
 description: Senior Scientist/PI

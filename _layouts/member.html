@@ -32,11 +32,23 @@ layout: default
   research/?search={% for alias in aliases %}"{{ alias }}" {% endfor %}
 {%- endcapture %}
 
+<!--
 <p class="center">
   <a href="{{ search | relative_url }}">
     Search for {{ page.name | default: page.title }}'s papers on the Research page
   </a>
 </p>
+-->
+
+## All papers under Casey's ORCID:
+
+{% capture content %}
+
+{% include list.html data="citations" component="citation" filters="member: {{ page.member }}" %}
+
+{% endcapture %}
+
+{% include grid.html content=content %}
 
 {% capture search -%}
   blog/?search={{ page.name }}
