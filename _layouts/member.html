@@ -42,10 +42,8 @@ layout: default
 
 ## All papers under Casey's ORCID:
 
-{% capture content %}
-
-{% include list.html data="citations" component="citation" filters="member: {{ page.member }}" %}
-
+{% capture publications %}
+  {% include list.html data='citations' component='citation' filters="member: {{ page.member }}" %}
 {% endcapture %}
 
 {% include grid.html content=content %}
