@@ -40,8 +40,12 @@ layout: default
 </p>
 -->
 
+{% capture publication_filter %}
+member: {{ page.member }}
+{% endcapture %}
+
 {% capture publications %}
-  {% include list.html data='citations' component='citation' %}
+  {% include list.html data='citations' component='citation' filters=publication_filter %}
 {% endcapture %}
 
 {% include grid.html content=publications %}
