@@ -29,6 +29,7 @@
     - SARS-CoV-2
 
 - title: VIRify
+  group: featured
   image: images/software/virify.png
   link: https://github.com/EBI-Metagenomics/emg-viral-pipeline
   description: Detection of phages and eukaryotic viruses from metagenomic and metatranscriptomic assemblies. Developed together and mainly maintained by the [Microbiome Informatics](https://www.ebi.ac.uk/about/teams/microbiome-informatics/) team at EBI.
@@ -43,7 +44,7 @@
 - title: RNAflow
   image: images/software/rnaflow.png
   link: https://github.com/hoelzer-lab/rnaflow
-  description: A simple yet powerful RNA-Seq differential gene expression pipeline using Nextflow.
+  description: A portable, scalable, and parallelizable Nextflow RNA-Seq pipeline to detect differentially expressed genes, aiming for a high level of reproducibility. 
   repo: hoelzer-lab/rnaflow
   tags:
     - Nextflow
@@ -52,6 +53,7 @@
     - Gene Expression
 
 - title: RIBAP
+  group: featured
   image: images/software/ribap.png
   link: https://github.com/hoelzer-lab/ribap
   description: A comprehensive bacterial core genome annotation pipeline based on Roary and pairwise Integer Linear Programming. Calculate core genes beyond species levels.
