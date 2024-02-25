@@ -5,7 +5,7 @@ nav:
   tooltip: Impressum
 ---
 
-# {% include icon.html icon="fa-regular fa-balance-scale" %}Impressum
+# {% include icon.html icon="fa-regular fa-id-card" %}Impressum
 
 This is a private webpage.
 
