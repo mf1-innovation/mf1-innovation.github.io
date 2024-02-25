@@ -85,6 +85,19 @@
     - Positive Selection
     - Recombination
 
+- title: PCAGO
+  image: images/software/pcago.png
+  link: https://github.com/hoelzer-lab/pcago
+  description: Interactive web service that allows analysis of RNA-Seq read count data with PCA and clustering. [Go to web service](https://pcago.bioinf.uni-jena.de/). [Run desktop app](https://github.com/hoelzer-lab/pcago/tree/master/src-electron).
+  repo: hoelzer/pocp
+  tags:
+    - PCA
+    - Clustering
+    - RNA-Seq
+    - Gene expression
+    - Web service
+
+
 # - title: Cool Web App
 #   subtitle: a subtitle
 #   image: images/photo.jpg
