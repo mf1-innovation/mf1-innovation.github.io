@@ -28,6 +28,18 @@
     - Pipeline
     - SARS-CoV-2
 
+- title: VIRify
+  image: images/software/virify.png
+  link: https://github.com/EBI-Metagenomics/emg-viral-pipeline
+  description: Detection of phages and eukaryotic viruses from metagenomic and metatranscriptomic assemblies. Mainly developed and maintained by the [Microbiome Informatics](https://www.ebi.ac.uk/about/teams/microbiome-informatics/) team at EBI.
+  repo: EBI-Metagenomics/emg-viral-pipeline
+  tags:
+    - Nextflow
+    - Pipeline
+    - Metagenomics
+    - Viruses
+    - Taxonomy
+
 - title: RNAflow
   image: images/software/rnaflow.png
   link: https://github.com/hoelzer-lab/rnaflow
@@ -42,7 +54,7 @@
 - title: RIBAP
   image: images/software/ubsetr.svg
   link: https://github.com/hoelzer-lab/ribap
-  description: **R**oary **I**LP **B**acterial **A**nnotation **P**ipeline.
+  description: The **R**oary **I**LP **B**acterial **A**nnotation **P**ipeline. Calculate core genes beyond genus boundaries.
   repo: hoelzer-lab/ribap
   tags:
     - Nextflow
@@ -58,6 +70,9 @@
   tags:
     - Nextflow
     - Pipeline
+    - Bacteria
+    - Proteins
+    - Taxonomy
 
 # - title: Cool Web App
 #   subtitle: a subtitle
