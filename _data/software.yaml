@@ -29,7 +29,6 @@
     - SARS-CoV-2
 
 - title: VIRify
-  group: featured
   image: images/software/virify.png
   link: https://github.com/EBI-Metagenomics/emg-viral-pipeline
   description: Detection of phages and eukaryotic viruses from metagenomic and metatranscriptomic assemblies. Developed together and mainly maintained by the [Microbiome Informatics](https://www.ebi.ac.uk/about/teams/microbiome-informatics/) team at EBI.
