@@ -5,7 +5,7 @@
   description: Fast detection of putative transmission chains in large (>1 million) sets of SARS-CoV-2 genomic sequences.
   repo: rki-mf1/breakfast
   tags:
-    - clustering
+    - Clustering
     - SARS-CoV-2
 
 # - title: Cool Package
@@ -20,13 +20,24 @@
 
 - title: poreCoV
   image: images/software/porecov.jpeg
-  link: https://github.com/hoelzer/pocp
+  link: https://github.com/replikation/poreCov
   description: An easy to use, fast, and robust Nextflow pipeline for SARS-CoV-2 genome reconstruction from Nanopore sequencing data. Developed together w/ the [CaSe Group](https://case-group.github.io/).
   repo: replikation/poreCov
   tags:
-    - nextflow
-    - pipeline
+    - Nextflow
+    - Pipeline
     - SARS-CoV-2
+
+- title: RNAflow
+  image: images/software/rnaflow.png
+  link: https://github.com/hoelzer-lab/rnaflow
+  description: A simple yet powerful RNA-Seq differential gene expression pipeline using Nextflow.
+  repo: hoelzer-lab/rnaflow
+  tags:
+    - Nextflow
+    - Pipeline
+    - RNA-Seq
+    - Gene Expression
 
 - title: POCP-nf
   image: images/software/pocp-nf.png
@@ -34,8 +45,8 @@
   description: Nextflow pipeline for the Calculation of the **P**ercentage **O**f **C**onserved **P**roteins following [Qin et al. 2014.](https://www.ncbi.nlm.nih.gov/pubmed/24706738) but using DIAMOND instead of BLASTP.
   repo: hoelzer/pocp
   tags:
-    - nextflow
-    - pipeline
+    - Nextflow
+    - Pipeline
 
 # - title: Cool Web App
 #   subtitle: a subtitle
