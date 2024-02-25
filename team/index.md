@@ -24,9 +24,9 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {% include section.html %}
 
-{% capture content %}
-
 # {% include icon.html icon="fa-solid fa-users" %}Alumni
+
+{% capture content %}
 
 {% include figure.html image="images/photo.jpg" %}
 {% include figure.html image="images/photo.jpg" %}
