@@ -39,6 +39,17 @@
     - RNA-Seq
     - Gene Expression
 
+- title: RIBAP
+  image: images/software/ubsetr.svg
+  link: https://github.com/hoelzer-lab/ribap
+  description: **R**oary **I**LP **B**acterial **A**nnotation **P**ipeline.
+  repo: hoelzer-lab/ribap
+  tags:
+    - Nextflow
+    - Pipeline
+    - Bacteria
+    - Pangenome
+
 - title: POCP-nf
   image: images/software/pocp-nf.png
   link: https://github.com/hoelzer/pocp
