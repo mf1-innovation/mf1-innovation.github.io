@@ -31,7 +31,7 @@
 - title: VIRify
   image: images/software/virify.png
   link: https://github.com/EBI-Metagenomics/emg-viral-pipeline
-  description: Detection of phages and eukaryotic viruses from metagenomic and metatranscriptomic assemblies. Mainly developed and maintained by the [Microbiome Informatics](https://www.ebi.ac.uk/about/teams/microbiome-informatics/) team at EBI.
+  description: Detection of phages and eukaryotic viruses from metagenomic and metatranscriptomic assemblies. Developed together and mainly maintained by the [Microbiome Informatics](https://www.ebi.ac.uk/about/teams/microbiome-informatics/) team at EBI.
   repo: EBI-Metagenomics/emg-viral-pipeline
   tags:
     - Nextflow
@@ -52,9 +52,9 @@
     - Gene Expression
 
 - title: RIBAP
-  image: images/software/ubsetr.svg
+  image: images/software/ribap.png
   link: https://github.com/hoelzer-lab/ribap
-  description: The **R**oary **I**LP **B**acterial **A**nnotation **P**ipeline. Calculate core genes beyond genus boundaries.
+  description: A comprehensive bacterial core genome annotation pipeline based on Roary and pairwise Integer Linear Programming. Calculate core genes beyond species levels.
   repo: hoelzer-lab/ribap
   tags:
     - Nextflow
@@ -73,6 +73,17 @@
     - Bacteria
     - Proteins
     - Taxonomy
+
+- title: PoSeiDon
+  image: images/software/poseidon.png
+  link: https://github.com/hoelzer/poseidon
+  description: A pipeline for **Po**sitive **Se**lect**i**on **D**etecti**on** and recombination analysis of protein-coding genes.
+  repo: hoelzer/pocp
+  tags:
+    - Nextflow
+    - Pipeline
+    - Positive Selection
+    - Recombination
 
 # - title: Cool Web App
 #   subtitle: a subtitle
