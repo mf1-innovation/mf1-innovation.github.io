@@ -3,16 +3,17 @@
 # team member roles
 
 team-lead:
-  icon: fa-solid fa-microscope
+  icon: fa-regular fa-lightbulb
   description: Team Lead
 
 senior-scientist:
   icon: fa-solid fa-microscope
   description: Senior Scientist
 
-pi:
-  icon: fa-solid fa-microscope
-  description: Principal Investigator
+# Removed in place of "team-lead"
+# pi:
+#   icon: fa-solid fa-microscope
+#   description: Principal Investigator
 
 postdoc:
   icon: fa-solid fa-glasses

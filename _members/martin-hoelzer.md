@@ -3,6 +3,7 @@ name: Martin Hölzer
 member: martin-hoelzer
 image: images/members/martin-hoelzer.jpg
 role: team-lead
+description: Team Lead/Group PI
 aliases:
   - Martin Hoelzer
   - M. Hoelzer
