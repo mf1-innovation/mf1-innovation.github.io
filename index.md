@@ -26,7 +26,7 @@ The MF1 Innovation and Research team is dedicated to advancing bioinformatics me
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/our-research.png"
   link="research"
   title="Our Research"
   text=text
@@ -49,7 +49,7 @@ The MF1 Innovation and Research team is dedicated to advancing bioinformatics me
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/our-software.png"
   link="software"
   title="Our Software"
   flip=true
