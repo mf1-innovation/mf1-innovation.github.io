@@ -7,8 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Software
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+It is important to us that our bioinformatics research also leads to robust, easy-to-use and useful tools for the scientific community. Our tools are available open source and we use workflow management systems like Nextflow and containers like Docker to develop reproducible research software. Have fun trying them out and we're always happy to receive feedback and pull requests on GitHub.   
 
 {% include tags.html tags="publication, resource, website" %}
 

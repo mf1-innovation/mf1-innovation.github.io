@@ -2,8 +2,11 @@
   group: featured
   image: images/software/breakfast.png
   link: https://github.com/rki-mf1/breakfast
-  description: Fast detection of putative transmission chains in large (>1 million) sets of SARS-CoV-2 genomic sequences
+  description: Fast detection of putative transmission chains in large (>1 million) sets of SARS-CoV-2 genomic sequences.
   repo: rki-mf1/breakfast
+  tags:
+    - Clustering
+    - SARS-CoV-2
 
 # - title: Cool Package
 #   subtitle: a subtitle
@@ -15,14 +18,86 @@
 #   tags:
 #     - resource
 
+- title: poreCoV
+  image: images/software/porecov.jpeg
+  link: https://github.com/replikation/poreCov
+  description: An easy to use, fast, and robust Nextflow pipeline for SARS-CoV-2 genome reconstruction from Nanopore sequencing data. Developed together w/ the [CaSe Group](https://case-group.github.io/).
+  repo: replikation/poreCov
+  tags:
+    - Nextflow
+    - Pipeline
+    - SARS-CoV-2
+
+- title: VIRify
+  image: images/software/virify.png
+  link: https://github.com/EBI-Metagenomics/emg-viral-pipeline
+  description: Detection of phages and eukaryotic viruses from metagenomic and metatranscriptomic assemblies. Developed together and mainly maintained by the [Microbiome Informatics](https://www.ebi.ac.uk/about/teams/microbiome-informatics/) team at EBI.
+  repo: EBI-Metagenomics/emg-viral-pipeline
+  tags:
+    - Nextflow
+    - Pipeline
+    - Metagenomics
+    - Viruses
+    - Taxonomy
+
+- title: RNAflow
+  image: images/software/rnaflow.png
+  link: https://github.com/hoelzer-lab/rnaflow
+  description: A portable, scalable, and parallelizable Nextflow RNA-Seq pipeline to detect differentially expressed genes, aiming for a high level of reproducibility. 
+  repo: hoelzer-lab/rnaflow
+  tags:
+    - Nextflow
+    - Pipeline
+    - RNA-Seq
+    - Gene Expression
+
+- title: RIBAP
+  group: featured
+  image: images/software/ribap.png
+  link: https://github.com/hoelzer-lab/ribap
+  description: A comprehensive bacterial core genome annotation pipeline based on Roary and pairwise Integer Linear Programming. Calculate core genes beyond species levels.
+  repo: hoelzer-lab/ribap
+  tags:
+    - Nextflow
+    - Pipeline
+    - Bacteria
+    - Pangenome
+
 - title: POCP-nf
   image: images/software/pocp-nf.png
   link: https://github.com/hoelzer/pocp
-  description: Nextflow pipeline for the Calculation of the Percentage Of Conserved Proteins following [Qin et al. 2014.](https://www.ncbi.nlm.nih.gov/pubmed/24706738)
+  description: Nextflow pipeline for the Calculation of the **P**ercentage **O**f **C**onserved **P**roteins following [Qin et al. 2014.](https://www.ncbi.nlm.nih.gov/pubmed/24706738) but using DIAMOND instead of BLASTP.
   repo: hoelzer/pocp
   tags:
-    - nextflow
-    - pipeline
+    - Nextflow
+    - Pipeline
+    - Bacteria
+    - Proteins
+    - Taxonomy
+
+- title: PoSeiDon
+  image: images/software/poseidon.png
+  link: https://github.com/hoelzer/poseidon
+  description: A pipeline for **Po**sitive **Se**lect**i**on **D**etecti**on** and recombination analysis of protein-coding genes.
+  repo: hoelzer/pocp
+  tags:
+    - Nextflow
+    - Pipeline
+    - Positive Selection
+    - Recombination
+
+- title: PCAGO
+  image: images/software/pcago.png
+  link: https://github.com/hoelzer-lab/pcago
+  description: Interactive web service that allows analysis of RNA-Seq read count data with PCA and clustering. [Go to web service](https://pcago.bioinf.uni-jena.de/). [Run desktop app](https://github.com/hoelzer-lab/pcago/tree/master/src-electron).
+  repo: hoelzer/pocp
+  tags:
+    - PCA
+    - Clustering
+    - RNA-Seq
+    - Gene expression
+    - Web service
+
 
 # - title: Cool Web App
 #   subtitle: a subtitle
