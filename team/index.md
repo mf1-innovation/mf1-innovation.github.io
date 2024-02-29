@@ -17,3 +17,13 @@ We work closely with the other teams at the [Genome Competence Center](https://w
 {% include list.html data="members" component="portrait" filters="role: team\-lead" %}
 {% include list.html data="members" component="portrait" filters="role: ^(?!team\-lead$)" %}
 
+{% include section.html %}
+
+Additional team members:
+
+* 2 PostDocs
+* 2 PhD students
+* 3 co-supervised PhD students together with the [ZKI-PH](https://www.rki.de/EN/Content/Institute/DepartmentsUnits/ZKI-PH/ZKI-PH.html)
+* 3 Master students
+* 1 Student assistant
+* 1 Guest scientist
