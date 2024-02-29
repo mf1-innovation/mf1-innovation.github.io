@@ -1,9 +1,11 @@
 ---
 ---
 
-# MF1 Research and Innovation
+# Generating evidence, sharing knowledge, and protecting health need innovation
 
-The MF1 Innovation and Research team is dedicated to advancing bioinformatics methods for health research. Our main goal is the development of novel genome-based solutions and analytical methods. By combining our research with powerful sequencing technologies, we seek optimized approaches to answer complex scientific questions in the field of public health.
+The MF1 Research & Innovation team is dedicated to advancing bioinformatics methods for health research. Our main goal is the development of novel genome-based solutions and analytical methods. By combining our research with powerful sequencing technologies, we seek optimized approaches to answer complex scientific questions in the field of public health.
+
+We are part of the [Genome Competence Center](https://www.rki.de/EN/Content/Institute/DepartmentsUnits/MF/MF1/mf1_node.html) at the Robert Koch Institut in Berlin.  At RKI, our team is not just about pioneering technological advances; we're about fostering an environment where innovation thrives, supporting our colleagues and the wider research community with tailored wet lab and computational methods. Through collaboration and dedication we aim to contribute significantly to the future of bioinformatics in public health research.
 
 {% include section.html %}
 
