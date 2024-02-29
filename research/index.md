@@ -19,6 +19,8 @@ We conduct research to bridge the gap between life sciences and computer science
 
 ## All
 
+Note: this list currently includes all publications by lab members, including work they may have published while they were in previous labs.
+
 {% include search-box.html %}
 
 {% include search-info.html %}
