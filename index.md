@@ -76,7 +76,7 @@ We are part of the [Genome Competence Center](https://www.rki.de/EN/Content/Inst
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/members/2023-team-xmas.png"
   link="team"
   title="Our Team"
   text=text
