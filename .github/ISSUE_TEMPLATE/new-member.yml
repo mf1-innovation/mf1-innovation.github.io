@@ -1,0 +1,65 @@
+name: Add Team Member
+description: Add a new team member
+title: "[New Member]: "
+labels: ["new member"]
+assignees:
+  - matthuska
+body:
+  - type: markdown
+    attributes:
+      value: |
+        This form can be used to request that someone is added to the list of team members. Adding yourself to the website is completely optional.
+  - type: input
+    id: name
+    attributes:
+      label: Name
+      description: What is your name, as you would like it to be displayed on your team member page?
+      placeholder: ex. Matt Huska
+    validations:
+      required: true
+  - type: input
+    id: url-name
+    attributes:
+      label: URL name
+      description: How would you like your name to appear in the link to your member page? It should be hyphen-separated, all lower case, with no non-ascii characters or accents.
+      placeholder: ex. matt-huska -> https://mf1-innovation.github.io/members/matt-huska.html
+    validations:
+      required: true
+  - type: input
+    id: orcid-id
+    attributes:
+      label: ORCID identifier
+      description: What is our ORCID ID? If you don't have one, go make one an then come back: https://www.orcid.org. ORCID is a great thing to use as a scientist, and we use it to automatically fetch and updat your list of publications.
+      placeholder: ex. 0000-0002-0912-745X
+    validations:
+      required: true
+  - type: textarea
+    id: aliases
+    attributes:
+      label: Aliases
+      description: Are there other spellings of your name that have been used in your papers? This could include things like initials, short or long forms of your name, etc. This will be used to highlight your name in the automatically downloaded ORCID publications.
+      placeholder: ex. MR Huska, Matthew Huska, Matthew Robert Huska
+  - type: textarea
+    id: bio
+    attributes:
+      label: Bio
+      description: Write a short bio about yourself (scientific interests, professional background, etc). Aim for 1-2 paragraphs.
+    validations:
+      required: true
+  - type: textarea
+    id: socials
+    attributes:
+      label: Socials
+      description: Do you have any external accounts that you would like to have linked from your team page (e.g. social media like twitter, code hosting services like GitHub, a self-made website)?
+      placeholder: ex. Google Scholar: SCeFpDIAAAAJ, GitHub: matthuska
+  - type: checkboxes
+    id: agreement
+    attributes:
+      label: Agreement
+      description: Did you already sign the document that states that you would like to be included on the website? If not, talk to Martin.
+      options:
+        - label: Yes, I have signed the document and sent it to Martin
+  - type: markdown
+    attributes:
+      value: |
+        Lastly, please attach a photo (.jpg format, not .png) of yourself. The resolution should be around 400x400 pixels and should be under 200 kilobytes.
