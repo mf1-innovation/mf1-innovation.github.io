@@ -51,7 +51,7 @@ body:
     attributes:
       label: Socials
       description: Do you have any external accounts that you would like to have linked from your team page (e.g. social media like twitter, code hosting services like GitHub, a self-made website)?
-      placeholder: ex. Google Scholar: SCeFpDIAAAAJ, GitHub: matthuska
+      placeholder: "ex. Google Scholar: SCeFpDIAAAAJ, GitHub: matthuska"
   - type: checkboxes
     id: agreement
     attributes:
