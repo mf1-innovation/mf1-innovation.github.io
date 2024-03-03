@@ -29,7 +29,7 @@ body:
     id: orcid-id
     attributes:
       label: ORCID identifier
-      description: What is our ORCID ID? If you don't have one, go make one an then come back: https://www.orcid.org. ORCID is a great thing to use as a scientist, and we use it to automatically fetch and updat your list of publications.
+      description: "What is our ORCID ID? If you don't have one, go make one an then come back: https://www.orcid.org. ORCID is a great thing to use as a scientist, and we use it to automatically fetch and update your list of publications."
       placeholder: ex. 0000-0002-0912-745X
     validations:
       required: true
