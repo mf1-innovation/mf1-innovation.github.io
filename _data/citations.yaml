@@ -1,5 +1,24 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1101/2024.03.07.583829
+  title: In silico genomic surveillance by CoVerage predicts and characterizes SARS-CoV-2
+    Variants of Interest
+  authors:
+  - Katrina Norwood
+  - Zhi-Luo Deng
+  - Susanne Reimering
+  - Gary Robertson
+  - Mohammad-Hadi Foroughmand-Araabi
+  - Sama Goliaei
+  - Martin Hoelzer
+  - Alice Carolyn McHardy
+  publisher: Cold Spring Harbor Laboratory
+  date: '2024-03-08'
+  link: https://doi.org/gtmcs5
+  orcid: 0000-0001-7090-8717
+  member: martin-hoelzer
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1093/database/baad071
   title: "Managing and\_monitoring a pandemic: showcasing a practical approach for\_\
     the genomic surveillance of\_SARS-CoV-2"
