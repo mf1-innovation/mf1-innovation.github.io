@@ -62,4 +62,4 @@ body:
   - type: markdown
     attributes:
       value: |
-        Lastly, please attach a photo (.jpg format, not .png) of yourself. The resolution should be around 400x400 pixels and should be under 200 kilobytes.
+        Lastly, please submit this and then add a comment on the resulting issue with a profile photo (.jpg format, not .png) of yourself. The resolution should be around 400x400 pixels and should be under 200 kilobytes.
