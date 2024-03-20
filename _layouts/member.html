@@ -48,11 +48,13 @@ Note: this list currently includes all publications from this team member, possi
 member: {{ page.member }}
 {% endcapture %}
 
-{% capture publications %}
-  {% include list.html data='citations' component='citation' filters=publication_filter %}
-{% endcapture %}
+{% include search-box.html %}
 
-{% include grid.html content=publications %}
+{% include search-info.html %}
+
+{% include list.html data='citations' component='citation' filters=publication_filter %}
+
+<!-- Blog stuff --->
 
 {% capture search -%}
   blog/?search={{ page.name }}
